@@ -1,0 +1,2093 @@
+(1,1,1,10,0, 'other', 'None', False),
+(1,2,1,10,3, 'rush', 'Davis, Javon', False)
+(1,3,2,7,0, 'pass', 'Davis, Javon', False)
+(1,4,3,7,10, 'rush', 'Davis, Javon', False)
+(1,5,1,10,7, 'rush', 'Mitchell, Steven', False)
+(1,6,2,3,52, 'pass', 'Davis, Javon', True)
+(1,7,1,10,0, 'extra point', 'Lima, Joao', True)
+(1,8,1,10,61, 'kickoff', 'Lima, Joao', False)
+(1,9,1,10,0, 'other', 'None', False),
+(1,10,1,10,0, 'other', 'None', False),
+(1,11,1,10,10, 'pass', 'Urena, Adam', False)
+(1,12,1,10,11, 'rush', 'Davis, Earnest', False)
+(1,13,1,10,44, 'pass', 'Urena, Adam', False)
+(1,14,1,10,10, 'pass', 'Urena, Adam', True)
+(1,15,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(1,16,1,10,60, 'kickoff', 'Kline, Kaedon', False)
+(1,17,1,10,0, 'other', 'None', False),
+(1,18,1,10,10, 'pass', 'Davis, Javon', False)
+(1,19,1,10,0, 'pass', 'Davis, Javon', False)
+(1,20,2,10,6, 'rush', 'Mitchell, Steven', False)
+(1,21,3,4,13, 'pass', 'Davis, Javon', False)
+(1,22,1,10,5, 'rush', 'Green, Dawaun', False)
+(1,23,2,5,0, 'pass', 'Davis, Javon', False)
+(1,24,3,5,0, 'pass', 'Davis, Javon', False)
+(1,25,4,5,33, 'punt', 'Brady, Trey', False)
+(1,26,1,10,0, 'other', 'None', False),
+(1,27,1,10,3, 'rush', 'Davis, Earnest', False)
+(1,28,2,7,24, 'pass', 'Urena, Adam', False)
+(1,29,1,10,8, 'rush', 'Davis, Earnest', False)
+(1,30,2,2,1, 'rush', 'Davis, Earnest', False)
+(1,31,3,1,5, 'other', 'None', False),
+(1,32,3,6,0, 'pass', 'Urena, Adam', False)
+(1,33,4,6,38, 'punt', 'McGuire, Garrett', False)
+(1,34,1,10,0, 'other', 'None', False),
+(1,35,1,10,13, 'pass', 'Davis, Javon', False)
+(1,36,1,10,5, 'other', 'None', False),
+(1,37,1,15,8, 'rush', 'Mitchell, Steven', False)
+(1,38,2,7,-3, 'rush', 'Mitchell, Steven', False)
+(1,39,3,10,21, 'rush', 'Davis, Javon', False)
+(1,40,1,10,0, 'pass', 'Davis, Javon', False)
+(1,41,2,10,6, 'rush', 'Davis, Javon', False)
+(1,42,3,4,4, 'rush', 'Davis, Javon', False)
+(1,43,1,10,2, 'rush', 'Mitchell, Steven', False)
+(1,44,2,8,0, 'other', 'None', False),
+(1,45,2,8,4, 'pass', 'Davis, Javon', False)
+(1,46,3,4,0, 'other', 'None', False),
+(1,47,3,4,0, 'pass', 'Davis, Javon', False)
+(1,48,4,4,37, 'field goal', 'Lima, Joao', True)
+(1,49,1,10,60, 'kickoff', 'Lima, Joao', False)
+(1,50,1,10,0, 'other', 'None', False),
+(1,51,1,10,9, 'pass', 'Urena, Adam', False)
+(1,52,2,1,13, 'rush', 'Rodriguez, Ayron', False)
+(1,53,1,10,3, 'rush', 'Rodriguez, Ayron', False)
+(1,54,2,7,10, 'pass', 'Urena, Adam', False)
+(1,55,1,10,5, 'rush', 'Davis, Earnest', False)
+(1,56,2,5,0, 'pass', 'Urena, Adam', False)
+(1,57,3,5,0, 'pass', 'Urena, Adam', False)
+(1,58,4,5,10, 'pass', 'Urena, Adam', False)
+(1,59,1,10,9, 'rush', 'Rodriguez, Ayron', False)
+(1,60,2,1,27, 'pass', 'Urena, Adam', True)
+(1,61,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(1,62,1,10,65, 'kickoff', 'Kline, Kaedon', False)
+(1,63,1,10,0, 'other', 'None', False),
+(1,64,1,10,5, 'rush', 'Green, Dawaun', False)
+(1,65,2,5,0, 'other', 'Davis, Javon', False)
+(1,66,3,5,6, 'pass', 'Davis, Javon', False)
+(1,67,1,10,0, 'other', 'None', False),
+(1,68,1,10,4, 'rush', 'Holloway, Tre', False)
+(1,69,2,6,5, 'pass', 'Davis, Javon', False)
+(1,70,3,1,5, 'pass', 'Davis, Javon', False)
+(1,71,1,10,5, 'rush', 'Davis, Javon', False)
+(1,72,2,5,27, 'pass', 'Davis, Javon', False)
+(1,73,1,10,4, 'rush', 'Green, Dawaun', False)
+(1,74,2,6,7, 'rush', 'Davis, Javon', False)
+(1,75,1,7,0, 'pass', 'Davis, Javon', False)
+(1,76,2,7,2, 'rush', 'Green, Dawaun', False)
+(1,77,3,5,0, 'rush', 'Davis, Javon', False)
+(1,78,1,2,1, 'rush', 'Mitchell, Steven', False)
+(1,79,2,1,0, 'rush', 'Green, Dawaun', False)
+(1,80,3,1,0, 'other', 'None', False),
+(1,81,3,1,1, 'rush', 'Green, Dawaun', True)
+(1,82,1,10,0, 'extra point', 'Lima, Joao', True)
+(1,83,1,10,60, 'kickoff', 'Lima, Joao', False)
+(1,84,1,10,0, 'other', 'None', False),
+(1,85,1,10,7, 'pass', 'Urena, Adam', False)
+(1,86,2,3,8, 'pass', 'Urena, Adam', False)
+(1,87,1,10,0, 'pass', 'Urena, Adam', False)
+(1,88,2,10,37, 'rush', 'Trobel, Brian', False)
+(1,89,1,4,3, 'pass', 'Urena, Adam', False)
+(1,90,2,1,0, 'other', 'None', False),
+(1,91,2,1,1, 'rush', 'Trobel, Brian', True)
+(1,92,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(1,93,1,10,64, 'kickoff', 'Kline, Kaedon', False)
+(1,94,1,10,0, 'other', 'None', False),
+(1,95,1,10,-5, 'rush', 'Mitchell, Steven', False)
+(1,96,2,15,0, 'other', 'None', False),
+(1,97,1,10,0, 'other', 'None', False),
+(1,98,1,10,0, 'pass', 'Urena, Adam', False)
+(1,99,2,10,0, 'pass', 'Urena, Adam', False)
+(1,100,3,10,18, 'pass', 'Urena, Adam', False)
+(1,101,1,10,1, 'rush', 'Davis, Earnest', False)
+(1,102,2,9,5, 'rush', 'Davis, Earnest', False)
+(1,103,3,4,15, 'pass', 'Urena, Adam', False)
+(1,104,1,10,2, 'rush', 'Rodriguez, Ayron', False)
+(1,105,2,8,9, 'pass', 'Urena, Adam', False)
+(1,106,1,10,8, 'rush', 'Rodriguez, Ayron', False)
+(1,107,2,2,4, 'pass', 'Urena, Adam', True)
+(1,108,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(1,109,1,10,65, 'kickoff', 'Kline, Kaedon', False)
+(1,110,1,10,0, 'other', 'None', False),
+(1,111,1,10,6, 'rush', 'Mitchell, Steven', False)
+(1,112,2,4,9, 'pass', 'Davis, Javon', False)
+(1,113,1,10,3, 'rush', 'Mitchell, Steven', False)
+(1,114,2,7,5, 'rush', 'Davis, Javon', False)
+(1,115,3,2,0, 'pass', 'Davis, Javon', False)
+(1,116,4,2,5, 'other', 'None', False),
+(1,117,4,7,37, 'punt', 'Brady, Trey', False)
+(1,118,1,10,0, 'other', 'None', False),
+(1,119,1,10,20, 'rush', 'Trobel, Brian', False)
+(1,120,1,20,11, 'rush', 'Trobel, Brian', False)
+(1,121,2,9,9, 'rush', 'Trobel, Brian', False)
+(1,122,1,10,4, 'rush', 'Trobel, Brian', False)
+(1,123,2,6,7, 'rush', 'Trobel, Brian', False)
+(1,124,1,10,4, 'rush', 'Trobel, Brian', False)
+(1,125,2,6,1, 'pass', 'Urena, Adam', False)
+(1,126,3,5,-3, 'rush', 'Davison, Rylan', False)
+(1,127,4,8,0, 'pass', 'Urena, Adam', False)
+(1,128,1,10,0, 'other', 'None', False),
+(1,129,1,10,5, 'rush', 'Mitchell, Steven', False)
+(1,130,2,5,13, 'rush', 'Mitchell, Steven', False)
+(1,131,1,10,-1, 'pass', 'Davis, Javon', False)
+(1,132,2,11,21, 'pass', 'Davis, Javon', False)
+(1,133,1,10,0, 'other', 'None', False),
+(1,134,1,10,0, 'pass', 'Urena, Adam', False)
+(1,135,2,10,0, 'other', 'None', False),
+(1,136,2,10,0, 'pass', 'Urena, Adam', False)
+(1,137,3,10,0, 'pass', 'Urena, Adam', False)
+(1,138,4,10,49, 'punt', 'McGuire, Garrett', False)
+(1,139,1,10,0, 'other', 'None', False),
+(1,140,1,10,-2, 'rush', 'Mitchell, Steven', False)
+(1,141,2,12,0, 'other', 'None', False),
+(1,142,2,12,12, 'pass', 'Davis, Javon', False)
+(1,143,1,10,0, 'pass', 'Davis, Javon', False)
+(1,144,2,10,0, 'pass', 'Davis, Javon', False)
+(1,145,3,10,0, 'pass', 'Davis, Javon', False)
+(1,146,4,10,33, 'punt', 'Brady, Trey', False)
+(1,147,1,10,0, 'other', 'None', False),
+(1,148,1,10,4, 'rush', 'Davis, Earnest', False)
+(1,149,2,6,5, 'rush', 'Davis, Earnest', False)
+(1,150,3,1,43, 'rush', 'Davis, Earnest', False)
+(1,151,3,3,0, 'rush', 'Davis, Earnest', False)
+(1,152,4,3,5, 'other', 'None', False),
+(1,153,4,8,29, 'punt', 'McGuire, Garrett', False)
+(1,154,1,10,0, 'other', 'None', False),
+(1,155,1,10,0, 'other', 'None', False),
+(1,156,1,10,10, 'pass', 'Davis, Javon', False)
+(1,157,1,10,0, 'pass', 'Davis, Javon', False)
+(1,158,2,10,5, 'rush', 'Green, Dawaun', False)
+(1,159,3,5,0, 'pass', 'Davis, Javon', False)
+(1,160,4,5,0, 'pass', 'Davis, Javon', False)
+(1,161,1,10,0, 'other', 'None', False),
+(1,162,1,10,10, 'pass', 'Urena, Adam', False)
+(1,163,1,10,7, 'pass', 'Urena, Adam', False)
+(1,164,2,3,6, 'rush', 'Trobel, Brian', False)
+(1,165,1,10,19, 'pass', 'Urena, Adam', False)
+(1,166,1,10,0, 'other', 'None', False),
+(1,167,1,10,8, 'pass', 'Urena, Adam', False)
+(1,168,2,2,0, 'rush', 'Urena, Adam', False)
+(1,169,3,2,-3, 'rush', 'Trobel, Brian', False)
+(1,170,4,5,-10, 'rush', 'Kim, Austin', False)
+(1,171,1,10,0, 'other', 'None', False),
+(1,172,1,10,0, 'pass', 'Davis, Javon', False)
+(1,173,2,10,7, 'pass', 'Davis, Javon', False)
+(1,174,3,3,5, 'other', 'None', False),
+(1,175,3,8,0, 'pass', 'Davis, Javon', False)
+(1,176,4,8,0, 'pass', 'Davis, Javon', False)
+(1,177,1,10,0, 'other', 'None', False),
+(1,178,1,10,1, 'rush', 'Davis, Earnest', False)
+(1,179,2,9,0, 'other', 'None', False),
+(1,180,2,9,3, 'rush', 'Davis, Earnest', False)
+(1,181,1,10,0, 'other', 'None', False),
+(1,182,1,10,10, 'pass', 'Davis, Javon', False)
+(1,183,1,10,33, 'pass', 'Davis, Javon', True)
+(1,184,1,10,0, 'rush', 'Holloway, Tre', True)
+(1,185,1,10,17, 'kickoff', 'Lima, Joao', False)
+(1,186,1,10,0, 'other', 'None', False),
+(1,187,1,10,3, 'rush', 'Rodriguez, Ayron', False)
+(1,188,2,7,0, 'other', 'None', False),
+(1,189,2,7,-2, 'rush', 'Rodriguez, Ayron', False)
+(1,190,3,9,0, 'other', 'None', False),
+(1,191,3,9,14, 'pass', 'Urena, Adam', False)
+(1,192,1,10,0, 'rush', 'Urena, Adam', False)
+(1,193,2,11,0, 'rush', 'Urena, Adam', False)
+(1,194,3,12,0, 'rush', 'Urena, Adam', False)
+(1,195,4,13,0, 'other', 'None', False),
+(2,1,1,10,0, 'other', 'None', False),
+(2,2,1,10,30, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,3,1,10,-1, 'rush', 'Hunter, Jarett', False)
+(2,4,2,11,7, 'rush', 'Hunter, Jarett', False)
+(2,5,3,4,5, 'rush', 'Hunter, Jarett', False)
+(2,6,1,10,14, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,7,1,10,3, 'rush', 'Hunter, Jarett', False)
+(2,8,2,7,10, 'rush', 'Smith, Breylin', False)
+(2,9,1,10,0, 'other', 'None', False),
+(2,10,1,10,3, 'pass', 'Urena, Adam', False)
+(2,11,2,7,8, 'rush', 'Davis, Earnest', False)
+(2,12,1,10,31, 'pass', 'Urena, Adam', False)
+(2,13,1,10,0, 'pass', 'Urena, Adam', False)
+(2,14,2,10,4, 'rush', 'Davis, Earnest', False)
+(2,15,3,6,7, 'pass', 'Urena, Adam', False)
+(2,16,1,10,12, 'rush', 'Davis, Earnest', False)
+(2,17,1,10,-1, 'pass', 'Urena, Adam', False)
+(2,18,2,11,12, 'pass', 'Urena, Adam', False)
+(2,19,1,10,15, 'pass', 'Urena, Adam', False)
+(2,20,1,7,0, 'pass', 'Urena, Adam', False)
+(2,21,2,7,3, 'rush', 'Davis, Earnest', False)
+(2,22,3,4,0, 'pass', 'Urena, Adam', False)
+(2,23,4,4,21, 'field goal', 'Nagucki, Nathan', True)
+(2,24,1,10,65, 'kickoff', 'Kline, Kaedon', False)
+(2,25,1,10,0, 'other', 'None', False),
+(2,26,1,10,5, 'rush', 'Hunter, Jarett', False)
+(2,27,2,5,7, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,28,1,10,14, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,29,1,10,26, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,30,1,10,2, 'rush', 'Hunter, Jarett', False)
+(2,31,2,8,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,32,3,8,-11, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,33,3,18,12, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,34,4,6,37, 'field goal', 'West, Dylan', True)
+(2,35,1,10,0, 'other', 'None', False),
+(2,36,1,10,12, 'rush', 'Kerbacher, Joe', False)
+(2,37,1,10,0, 'pass', 'Urena, Adam', False)
+(2,38,2,10,1, 'rush', 'Rodriguez, Ayron', False)
+(2,39,3,9,0, 'other', 'None', False),
+(2,40,3,9,8, 'other', 'Urena, Adam', False)
+(2,41,4,17,52, 'punt', 'Pittman, Hunter', False)
+(2,42,4,17,0, 'other', 'None', False),
+(2,43,1,10,0, 'other', 'None', False),
+(2,44,1,10,0, 'rush', 'James, Eden', False)
+(2,45,2,10,5, 'rush', 'Hunter, Jarett', False)
+(2,46,3,5,9, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,47,1,10,0, 'rush', 'James, Eden', False)
+(2,48,2,10,7, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,49,3,3,15, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,50,1,10,14, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,51,1,10,-1, 'rush', 'James, Eden', False)
+(2,52,2,11,12, 'rush', 'Hunter, Jarett', False)
+(2,53,1,10,1, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,54,2,9,11, 'rush', 'Hunter, Jarett', True)
+(2,55,1,10,0, 'extra point', 'West, Dylan', True)
+(2,56,1,10,59, 'kickoff', 'West, Dylan', False)
+(2,57,1,10,0, 'other', 'None', False),
+(2,58,1,10,0, 'rush', 'Davis, Earnest', False)
+(2,59,1,10,0, 'other', 'None', False),
+(2,60,1,10,-7, 'rush', 'James, Eden', False)
+(2,61,2,17,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,62,3,17,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,63,4,17,35, 'field goal', 'West, Dylan', True)
+(2,64,1,10,0, 'other', 'None', False),
+(2,65,1,10,5, 'other', 'Urena, Adam', False)
+(2,66,2,15,0, 'rush', 'Trobel, Brian', False)
+(2,67,3,15,6, 'pass', 'Urena, Adam', False)
+(2,68,4,9,35, 'punt', 'McGuire, Garrett', False)
+(2,69,1,10,0, 'other', 'None', False),
+(2,70,1,10,0, 'rush', 'Hunter, Jarett', False)
+(2,71,2,10,9, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,72,3,1,0, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,73,4,1,1, 'rush', 'Hunter, Jarett', False)
+(2,74,1,10,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,75,2,10,5, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,76,3,5,30, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,77,1,10,4, 'rush', 'Ilarraza, Richie', False)
+(2,78,2,6,7, 'rush', 'Hunter, Jarett', True)
+(2,79,1,10,0, 'extra point', 'West, Dylan', True)
+(2,80,1,10,15, 'other', 'None', False),
+(2,81,1,10,59, 'kickoff', 'West, Dylan', False)
+(2,82,1,10,0, 'other', 'None', False),
+(2,83,1,10,9, 'other', 'Urena, Adam', False)
+(2,84,2,19,0, 'other', 'None', False),
+(2,85,2,19,0, 'pass', 'Urena, Adam', False)
+(2,86,3,19,12, 'pass', 'Urena, Adam', False)
+(2,87,4,7,0, 'other', 'None', False),
+(2,88,4,7,0, 'pass', 'Urena, Adam', False)
+(2,89,1,10,0, 'other', 'None', False),
+(2,90,1,10,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,91,2,10,1, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,92,3,9,10, 'other', 'Scroggins, Ja'Shawn', False)
+(2,93,4,19,0, 'other', 'None', False),
+(2,94,1,10,0, 'other', 'None', False),
+(2,95,1,10,5, 'other', 'None', False),
+(2,96,1,15,0, 'rush', 'Rodriguez, Ayron', False)
+(2,97,2,15,0, 'pass', 'Urena, Adam', False)
+(2,98,3,15,7, 'pass', 'Urena, Adam', False)
+(2,99,4,8,24, 'punt', 'McGuire, Garrett', False)
+(2,100,4,8,0, 'other', 'None', False),
+(2,101,1,10,0, 'other', 'None', False),
+(2,102,1,10,8, 'rush', 'Hunter, Jarett', False)
+(2,103,2,2,14, 'rush', 'Hunter, Jarett', False)
+(2,104,1,10,6, 'rush', 'Hunter, Jarett', False)
+(2,105,2,4,15, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,106,1,10,18, 'rush', 'Hunter, Jarett', False)
+(2,107,1,10,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,108,2,10,13, 'rush', 'Hunter, Jarett', False)
+(2,109,1,10,4, 'rush', 'Hunter, Jarett', False)
+(2,110,2,6,11, 'pass', 'Scroggins, Ja'Shawn', True)
+(2,111,1,10,0, 'extra point', 'West, Dylan', True)
+(2,112,1,10,65, 'kickoff', 'West, Dylan', False)
+(2,113,1,10,0, 'other', 'None', False),
+(2,114,1,10,0, 'pass', 'Urena, Adam', False)
+(2,115,2,10,1, 'rush', 'Rodriguez, Ayron', False)
+(2,116,3,9,11, 'pass', 'Urena, Adam', False)
+(2,117,1,10,0, 'pass', 'Urena, Adam', False)
+(2,118,2,10,0, 'pass', 'Urena, Adam', False)
+(2,119,3,10,10, 'pass', 'Urena, Adam', False)
+(2,120,1,10,13, 'rush', 'Rodriguez, Ayron', False)
+(2,121,1,10,1, 'rush', 'Rodriguez, Ayron', False)
+(2,122,2,9,15, 'pass', 'Urena, Adam', False)
+(2,123,1,10,-5, 'pass', 'Urena, Adam', False)
+(2,124,2,15,-2, 'rush', 'Rodriguez, Ayron', False)
+(2,125,1,10,10, 'pass', 'Urena, Adam', False)
+(2,126,1,2,2, 'rush', 'Rodriguez, Ayron', True)
+(2,127,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(2,128,1,10,58, 'kickoff', 'Kline, Kaedon', False)
+(2,129,1,10,0, 'other', 'None', False),
+(2,130,1,10,0, 'rush', 'James, Eden', False)
+(2,131,2,10,3, 'rush', 'James, Eden', False)
+(2,132,3,7,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,133,4,7,43, 'punt', 'Green, Jaydon', False)
+(2,134,1,10,0, 'other', 'None', False),
+(2,135,1,10,1, 'rush', 'Trobel, Brian', False)
+(2,136,2,9,56, 'rush', 'Trobel, Brian', False)
+(2,137,1,10,7, 'rush', 'Trobel, Brian', False)
+(2,138,2,3,0, 'other', 'None', False),
+(2,139,2,3,8, 'pass', 'Urena, Adam', True)
+(2,140,1,10,0, 'pass', 'Davison, Rylan', True)
+(2,141,1,10,64, 'kickoff', 'Kline, Kaedon', False)
+(2,142,1,10,0, 'other', 'None', False),
+(2,143,1,10,5, 'other', 'None', False),
+(2,144,1,15,7, 'rush', 'Hunter, Jarett', False)
+(2,145,2,8,12, 'rush', 'Hunter, Jarett', False)
+(2,146,1,10,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,147,2,10,-3, 'rush', 'Hunter, Jarett', False)
+(2,148,3,13,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,149,4,13,42, 'punt', 'Green, Jaydon', False)
+(2,150,1,10,0, 'other', 'None', False),
+(2,151,1,10,0, 'pass', 'Urena, Adam', False)
+(2,152,2,10,-3, 'rush', 'Trobel, Brian', False)
+(2,153,1,10,0, 'other', 'None', False),
+(2,154,1,10,1, 'rush', 'Hunter, Jarett', False)
+(2,155,2,9,19, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,156,1,6,4, 'rush', 'Hunter, Jarett', False)
+(2,157,2,2,0, 'rush', 'Hunter, Jarett', False)
+(2,158,3,2,1, 'rush', 'Hunter, Jarett', False)
+(2,159,4,1,1, 'rush', 'Hunter, Jarett', True)
+(2,160,1,10,0, 'extra point', 'West, Dylan', False)
+(2,161,1,10,49, 'kickoff', 'West, Dylan', False)
+(2,162,1,10,0, 'other', 'None', False),
+(2,163,1,10,-1, 'pass', 'Urena, Adam', False)
+(2,164,2,11,7, 'pass', 'Urena, Adam', False)
+(2,165,3,4,5, 'pass', 'Urena, Adam', False)
+(2,166,1,10,1, 'rush', 'Rodriguez, Ayron', False)
+(2,167,2,9,12, 'pass', 'Urena, Adam', False)
+(2,168,1,10,6, 'rush', 'Rodriguez, Ayron', False)
+(2,169,2,4,28, 'pass', 'Urena, Adam', False)
+(2,170,1,10,13, 'pass', 'Urena, Adam', True)
+(2,171,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(2,172,1,10,65, 'kickoff', 'Kline, Kaedon', False)
+(2,173,1,10,0, 'other', 'None', False),
+(2,174,1,10,2, 'rush', 'Hunter, Jarett', False)
+(2,175,2,8,6, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,176,3,2,-1, 'rush', 'Hunter, Jarett', False)
+(2,177,4,3,29, 'punt', 'Green, Jaydon', False)
+(2,178,1,10,0, 'other', 'None', False),
+(2,179,1,10,3, 'rush', 'Rodriguez, Ayron', False)
+(2,180,2,7,0, 'pass', 'Urena, Adam', False)
+(2,181,3,15,2, 'pass', 'Urena, Adam', False)
+(2,182,4,13,16, 'pass', 'Urena, Adam', False)
+(2,183,1,10,13, 'rush', 'Rodriguez, Ayron', False)
+(2,184,1,10,13, 'pass', 'Urena, Adam', False)
+(2,185,1,10,0, 'rush', 'Rodriguez, Ayron', False)
+(2,186,2,10,0, 'other', 'None', False),
+(2,187,2,10,22, 'pass', 'Urena, Adam', True)
+(2,188,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(2,189,1,10,65, 'kickoff', 'Kline, Kaedon', False)
+(2,190,1,10,0, 'other', 'None', False),
+(2,191,1,10,15, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,192,1,10,0, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,193,2,10,14, 'pass', 'Scroggins, Ja'Shawn', False)
+(2,194,1,10,26, 'rush', 'Scroggins, Ja'Shawn', False)
+(2,195,1,10,0, 'other', 'None', False),
+(2,196,1,10,37, 'field goal', 'West, Dylan', True)
+(2,197,1,10,0, 'other', 'None', False),
+(2,198,1,10,0, 'other', 'None', False),
+(3,1,1,10,0, 'other', 'None', False),
+(3,2,1,10,10, 'pass', 'Chiccitt, Anthony', False)
+(3,3,1,10,0, 'pass', 'Chiccitt, Anthony', False)
+(3,4,2,10,-5, 'rush', 'None', False),
+(3,5,3,15,19, 'pass', 'Chiccitt, Anthony', False)
+(3,6,1,10,6, 'rush', 'Chiccitt, Anthony', False)
+(3,7,2,4,8, 'pass', 'Chiccitt, Anthony', False)
+(3,8,1,10,13, 'pass', 'Chiccitt, Anthony', False)
+(3,9,1,10,10, 'pass', 'Chiccitt, Anthony', False)
+(3,10,1,10,14, 'pass', 'Chiccitt, Anthony', True)
+(3,11,1,10,0, 'extra point', 'Jenkins, Jayson', True)
+(3,12,1,10,65, 'kickoff', 'Jenkins, Jayson', False)
+(3,13,1,10,0, 'other', 'None', False),
+(3,14,1,10,9, 'rush', 'Davis, Earnest', False)
+(3,15,2,1,15, 'pass', 'Urena, Adam', False)
+(3,16,1,10,0, 'other', 'None', False),
+(3,17,1,10,25, 'pass', 'Chiccitt, Anthony', False)
+(3,18,1,3,3, 'rush', 'Moyer, DJ', True)
+(3,19,1,10,0, 'extra point', 'Jenkins, Jayson', True)
+(3,20,1,10,65, 'kickoff', 'Jenkins, Jayson', False)
+(3,21,1,10,0, 'other', 'None', False),
+(3,22,1,10,0, 'pass', 'Urena, Adam', False)
+(3,23,2,10,13, 'rush', 'Davis, Earnest', False)
+(3,24,1,10,5, 'pass', 'Urena, Adam', False)
+(3,25,2,5,0, 'pass', 'Urena, Adam', False)
+(3,26,3,5,8, 'other', 'Urena, Adam', False)
+(3,27,4,13,17, 'punt', 'McGuire, Garrett', False)
+(3,28,1,4,0, 'other', 'None', False),
+(3,29,1,4,3, 'rush', 'None', False),
+(3,30,2,1,10, 'rush', 'None', False),
+(3,31,1,10,0, 'pass', 'Chiccitt, Anthony', False)
+(3,32,2,10,8, 'other', 'Chiccitt, Anthony', False)
+(3,33,3,18,3, 'pass', 'Chiccitt, Anthony', False)
+(3,34,4,15,32, 'punt', 'Earnest, Steven', False)
+(3,35,1,10,0, 'other', 'None', False),
+(3,36,1,10,4, 'pass', 'Urena, Adam', False)
+(3,37,2,6,4, 'rush', 'Rodriguez, Ayron', False)
+(3,38,3,2,3, 'rush', 'Rodriguez, Ayron', False)
+(3,39,1,10,2, 'pass', 'Urena, Adam', False)
+(3,40,2,8,17, 'rush', 'Rodriguez, Ayron', False)
+(3,41,1,10,0, 'rush', 'Urena, Adam', False)
+(3,42,1,20,9, 'rush', 'Rodriguez, Ayron', False)
+(3,43,2,11,0, 'other', 'None', False),
+(3,44,2,11,11, 'pass', 'Urena, Adam', False)
+(3,45,1,10,0, 'pass', 'Urena, Adam', False)
+(3,46,2,10,1, 'rush', 'Rodriguez, Ayron', False)
+(3,47,3,9,6, 'pass', 'Urena, Adam', False)
+(3,48,4,3,12, 'other', 'Urena, Adam', False)
+(3,49,1,10,0, 'other', 'None', False),
+(3,50,1,10,4, 'rush', 'White, Julian', False)
+(3,51,2,6,34, 'pass', 'Chiccitt, Anthony', False)
+(3,52,1,4,0, 'rush', 'White, Julian', False)
+(3,53,2,4,-1, 'rush', 'White, Julian', False)
+(3,54,3,5,0, 'pass', 'Chiccitt, Anthony', False)
+(3,55,4,5,0, 'other', 'None', False),
+(3,56,4,5,5, 'pass', 'Chiccitt, Anthony', True)
+(3,57,1,10,0, 'extra point', 'Jenkins, Jayson', True)
+(3,58,1,10,57, 'kickoff', 'Jenkins, Jayson', False)
+(3,59,1,10,0, 'other', 'None', False),
+(3,60,1,10,25, 'rush', 'Davis, Earnest', False)
+(3,61,1,10,0, 'pass', 'Urena, Adam', False)
+(3,62,2,10,8, 'rush', 'Davis, Earnest', False)
+(3,63,3,2,2, 'rush', 'Trobel, Brian', False)
+(3,64,1,10,5, 'rush', 'Davis, Earnest', False)
+(3,65,1,10,6, 'rush', 'Davis, Earnest', False)
+(3,66,2,4,0, 'pass', 'Urena, Adam', False)
+(3,67,3,4,8, 'pass', 'Urena, Adam', False)
+(3,68,1,8,0, 'pass', 'Urena, Adam', False)
+(3,69,2,8,3, 'rush', 'Davis, Earnest', False)
+(3,70,3,5,0, 'pass', 'Urena, Adam', False)
+(3,71,4,5,5, 'pass', 'Urena, Adam', True)
+(3,72,1,10,2, 'other', 'None', False),
+(3,73,1,10,0, 'rush', 'Davis, Earnest', False)
+(3,74,1,10,54, 'kickoff', 'Kline, Kaedon', False)
+(3,75,1,10,0, 'other', 'None', False),
+(3,76,1,10,4, 'rush', 'None', False),
+(3,77,2,6,3, 'rush', 'None', False),
+(3,78,3,3,30, 'pass', 'Chiccitt, Anthony', False)
+(3,79,1,1,0, 'other', 'None', False),
+(3,80,1,1,1, 'rush', 'Rodriguez, Ayron', True)
+(3,81,1,10,2, 'other', 'None', False),
+(3,82,1,10,0, 'pass', 'Rodriguez, Ayron', True)
+(3,83,1,10,58, 'kickoff', 'Kline, Kaedon', False)
+(3,84,1,10,0, 'other', 'None', False),
+(3,85,1,10,63, 'pass', 'Chiccitt, Anthony', True)
+(3,86,1,10,0, 'extra point', 'Jenkins, Jayson', False)
+(3,87,1,10,65, 'kickoff', 'Jenkins, Jayson', False)
+(3,88,1,10,0, 'other', 'None', False),
+(3,89,1,10,2, 'rush', 'Trobel, Brian', False)
+(3,90,2,8,1, 'pass', 'Urena, Adam', False)
+(3,91,3,7,0, 'other', 'None', False),
+(3,92,3,7,0, 'pass', 'Urena, Adam', False)
+(3,93,4,7,38, 'punt', 'Pittman, Hunter', False)
+(3,94,1,10,0, 'other', 'None', False),
+(3,95,1,10,5, 'pass', 'Chiccitt, Anthony', False)
+(3,96,2,5,4, 'pass', 'Chiccitt, Anthony', False)
+(3,97,2,15,21, 'pass', 'Chiccitt, Anthony', False)
+(3,98,1,10,17, 'pass', 'Chiccitt, Anthony', False)
+(3,99,1,10,9, 'rush', 'Chiccitt, Anthony', False)
+(3,100,2,1,17, 'pass', 'Chiccitt, Anthony', True)
+(3,101,1,10,0, 'extra point', 'Jenkins, Jayson', True)
+(3,102,1,10,65, 'kickoff', 'Jenkins, Jayson', False)
+(3,103,1,10,0, 'other', 'None', False),
+(3,104,1,10,4, 'pass', 'Urena, Adam', False)
+(3,105,2,6,0, 'other', 'None', False),
+(3,106,2,6,8, 'other', 'Urena, Adam', False)
+(3,107,3,14,0, 'other', 'None', False),
+(3,108,1,10,0, 'other', 'None', False),
+(3,109,1,10,0, 'pass', 'Urena, Adam', False)
+(3,110,2,10,9, 'pass', 'Urena, Adam', False)
+(3,111,3,1,4, 'rush', 'Davis, Earnest', False)
+(3,112,1,10,24, 'pass', 'Urena, Adam', False)
+(3,113,1,10,7, 'rush', 'Kerbacher, Joe', False)
+(3,114,2,3,23, 'pass', 'Urena, Adam', False)
+(3,115,1,8,2, 'rush', 'Davis, Earnest', False)
+(3,116,2,6,5, 'rush', 'Davis, Earnest', False)
+(3,117,3,1,1, 'rush', 'Davis, Earnest', True)
+(3,118,1,10,5, 'other', 'None', False),
+(3,119,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(3,120,1,10,59, 'kickoff', 'Kline, Kaedon', False)
+(3,121,1,10,0, 'other', 'None', False),
+(3,122,1,10,0, 'other', 'None', False),
+(3,123,1,10,8, 'rush', 'None', False),
+(3,124,2,2,4, 'rush', 'None', False),
+(3,125,1,10,5, 'rush', 'None', False),
+(3,126,2,5,0, 'pass', 'Chiccitt, Anthony', False)
+(3,127,3,5,15, 'pass', 'Chiccitt, Anthony', False)
+(3,128,1,10,3, 'rush', 'Moyer, DJ', False)
+(3,129,2,7,4, 'rush', 'None', False),
+(3,130,3,3,0, 'pass', 'Chiccitt, Anthony', False)
+(3,131,4,3,14, 'pass', 'Chiccitt, Anthony', False)
+(3,132,1,10,5, 'other', 'None', False),
+(3,133,1,15,6, 'rush', 'None', False),
+(3,134,2,9,12, 'rush', 'None', False),
+(3,135,1,10,10, 'rush', 'None', False),
+(3,136,1,9,5, 'other', 'None', False),
+(3,137,1,14,1, 'rush', 'None', False),
+(3,138,2,13,11, 'rush', 'II, Delvecchio', False)
+(3,139,3,2,2, 'pass', 'Chiccitt, Anthony', True)
+(3,140,1,10,0, 'extra point', 'Jenkins, Jayson', True)
+(3,141,1,10,65, 'kickoff', 'Jenkins, Jayson', False)
+(3,142,1,10,0, 'other', 'None', False),
+(3,143,1,10,9, 'pass', 'Urena, Adam', False)
+(3,144,2,1,25, 'pass', 'Urena, Adam', False)
+(3,145,1,10,0, 'pass', 'Urena, Adam', False)
+(3,146,2,10,-8, 'pass', 'Urena, Adam', False)
+(3,147,3,18,0, 'pass', 'Urena, Adam', False)
+(3,148,4,18,0, 'other', 'None', False),
+(3,149,4,18,49, 'punt', 'Pittman, Hunter', False)
+(3,150,1,10,0, 'other', 'None', False),
+(3,151,1,10,12, 'pass', 'Chiccitt, Anthony', False)
+(3,152,1,10,9, 'rush', 'None', False),
+(3,153,2,1,18, 'rush', 'None', False),
+(3,154,1,10,11, 'rush', 'None', False),
+(3,155,1,10,0, 'other', 'None', False),
+(3,156,1,10,20, 'rush', 'None', False),
+(3,157,1,10,6, 'rush', 'None', False),
+(3,158,2,4,4, 'rush', 'None', True),
+(3,159,1,10,0, 'extra point', 'Jenkins, Jayson', True)
+(3,160,1,10,64, 'kickoff', 'Jenkins, Jayson', False)
+(3,161,1,10,0, 'other', 'None', False),
+(3,162,1,10,0, 'pass', 'Urena, Adam', False)
+(3,163,2,10,-6, 'rush', 'Trobel, Brian', False)
+(3,164,3,16,4, 'pass', 'Urena, Adam', False)
+(3,165,4,12,37, 'punt', 'Pittman, Hunter', False)
+(3,166,1,10,0, 'other', 'None', False),
+(3,167,1,10,0, 'rush', 'Moyer, DJ', False)
+(3,168,2,10,10, 'pass', 'Tanner, Zach', False)
+(3,169,2,20,5, 'other', 'None', False),
+(3,170,2,25,0, 'other', 'None', False),
+(3,171,2,25,10, 'pass', 'Tanner, Zach', False)
+(3,172,3,15,17, 'pass', 'Tanner, Zach', False)
+(3,173,1,10,5, 'rush', 'Tanner, Zach', False)
+(3,174,1,5,17, 'pass', 'Tanner, Zach', False)
+(3,175,1,10,4, 'rush', 'Tanner, Zach', False)
+(3,176,2,6,14, 'pass', 'Tanner, Zach', True)
+(3,177,1,10,0, 'extra point', 'Jenkins, Jayson', True)
+(3,178,1,10,60, 'kickoff', 'Jenkins, Jayson', False)
+(3,179,1,10,0, 'other', 'None', False),
+(3,180,1,10,8, 'pass', 'Urena, Adam', False)
+(3,181,2,2,0, 'pass', 'Urena, Adam', False)
+(3,182,3,2,5, 'pass', 'Urena, Adam', False)
+(3,183,1,10,1, 'pass', 'Urena, Adam', False)
+(3,184,2,9,0, 'pass', 'Urena, Adam', False)
+(3,185,3,9,15, 'pass', 'Urena, Adam', False)
+(3,186,1,10,5, 'pass', 'Urena, Adam', False)
+(3,187,2,5,16, 'pass', 'Urena, Adam', False)
+(3,188,1,10,5, 'pass', 'Urena, Adam', False)
+(3,189,2,5,6, 'pass', 'Urena, Adam', False)
+(3,190,1,10,0, 'other', 'None', False),
+(3,191,1,10,10, 'pass', 'Urena, Adam', False)
+(3,192,1,1,0, 'other', 'None', False),
+(3,193,1,1,1, 'pass', 'Urena, Adam', True)
+(3,194,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(3,195,1,10,16, 'kickoff', 'Kline, Kaedon', False)
+(3,196,1,10,0, 'other', 'None', False),
+(3,197,1,10,8, 'rush', 'Parkman, Muwaffaq', False)
+(3,198,2,2,0, 'rush', 'Szalkowski, Tyler', False)
+(3,199,3,3,0, 'other', 'None', False),
+(4,1,1,10,0, 'other', 'None', False),
+(4,2,1,10,8, 'rush', 'Mellott, Tommy', False)
+(4,3,2,2,6, 'rush', 'Humphrey, Scottre', False)
+(4,4,1,10,0, 'pass', 'Mellott, Tommy', False)
+(4,5,2,10,-5, 'rush', 'Jones, Adam', False)
+(4,6,3,15,15, 'pass', 'Mellott, Tommy', False)
+(4,7,1,10,5, 'rush', 'Humphrey, Scottre', False)
+(4,8,2,5,12, 'rush', 'Humphrey, Scottre', False)
+(4,9,1,10,27, 'pass', 'Mellott, Tommy', False)
+(4,10,1,8,5, 'rush', 'Humphrey, Scottre', False)
+(4,11,2,3,-4, 'rush', 'Jones, Rohan', False)
+(4,12,3,7,1, 'rush', 'Humphrey, Scottre', False)
+(4,13,4,6,23, 'field goal', 'Sansted, Myles', True)
+(4,14,1,10,65, 'kickoff', 'Hall, Brendan', False)
+(4,15,1,10,0, 'other', 'None', False),
+(4,16,1,10,5, 'other', 'None', False),
+(4,17,1,15,2, 'rush', 'Rodriguez, Ayron', False)
+(4,18,2,13,6, 'pass', 'Urena, Adam', False)
+(4,19,3,7,3, 'pass', 'Urena, Adam', False)
+(4,20,4,4,38, 'punt', 'Pittman, Hunter', False)
+(4,21,1,10,0, 'other', 'None', False),
+(4,22,1,10,4, 'rush', 'Humphrey, Scottre', False)
+(4,23,2,6,14, 'pass', 'Mellott, Tommy', False)
+(4,24,1,10,3, 'rush', 'Jones, Adam', False)
+(4,25,2,7,0, 'pass', 'Mellott, Tommy', False)
+(4,26,3,7,0, 'other', 'None', False),
+(4,27,3,7,8, 'rush', 'Humphrey, Scottre', False)
+(4,28,1,10,9, 'rush', 'Humphrey, Scottre', False)
+(4,29,2,1,14, 'rush', 'Humphrey, Scottre', False)
+(4,30,1,5,5, 'rush', 'Humphrey, Scottre', True)
+(4,31,1,10,0, 'extra point', 'Sansted, Myles', True)
+(4,32,1,10,65, 'kickoff', 'Hall, Brendan', False)
+(4,33,1,10,0, 'other', 'None', False),
+(4,34,1,10,3, 'rush', 'Rodriguez, Ayron', False)
+(4,35,2,7,2, 'other', 'Urena, Adam', False)
+(4,36,3,9,1, 'pass', 'Urena, Adam', False)
+(4,37,4,8,0, 'other', 'None', False),
+(4,38,4,8,45, 'punt', 'Pittman, Hunter', False)
+(4,39,1,10,0, 'other', 'None', False),
+(4,40,1,10,6, 'rush', 'White, Jared', False)
+(4,41,2,4,1, 'rush', 'White, Jared', False)
+(4,42,3,3,-8, 'rush', 'None', False),
+(4,43,4,11,57, 'punt', 'Hall, Brendan', False)
+(4,44,1,10,0, 'other', 'None', False),
+(4,45,1,10,6, 'pass', 'Urena, Adam', False)
+(4,46,2,4,0, 'pass', 'Urena, Adam', False)
+(4,47,3,4,9, 'pass', 'Urena, Adam', False)
+(4,48,1,10,15, 'other', 'None', False),
+(4,49,1,10,1, 'rush', 'Rodriguez, Ayron', False)
+(4,50,2,9,1, 'rush', 'Rodriguez, Ayron', False)
+(4,51,3,8,0, 'pass', 'Urena, Adam', False)
+(4,52,4,8,0, 'pass', 'Urena, Adam', False)
+(4,53,1,10,0, 'other', 'None', False),
+(4,54,1,10,15, 'other', 'None', False),
+(4,55,1,25,7, 'rush', 'Jones, Adam', False)
+(4,56,2,18,39, 'pass', 'Mellott, Tommy', False)
+(4,57,1,10,10, 'pass', 'Mellott, Tommy', False)
+(4,58,1,10,8, 'rush', 'Jones, Adam', False)
+(4,59,2,2,3, 'rush', 'Humphrey, Scottre', False)
+(4,60,1,5,5, 'pass', 'Mellott, Tommy', True)
+(4,61,1,10,0, 'extra point', 'Sansted, Myles', True)
+(4,62,1,10,65, 'kickoff', 'Hall, Brendan', False)
+(4,63,1,10,0, 'other', 'None', False),
+(4,64,1,10,3, 'other', 'Urena, Adam', False)
+(4,65,2,13,2, 'rush', 'Pappas, Mike', False)
+(4,66,3,11,0, 'pass', 'Urena, Adam', False)
+(4,67,4,11,0, 'punt', 'Pittman, Hunter', True)
+(4,68,1,10,0, 'extra point', 'Sansted, Myles', True)
+(4,69,1,10,65, 'kickoff', 'Hall, Brendan', False)
+(4,70,1,10,0, 'other', 'None', False),
+(4,71,1,10,19, 'rush', 'Rodriguez, Ayron', False)
+(4,72,1,10,11, 'pass', 'Urena, Adam', False)
+(4,73,1,10,0, 'pass', 'Urena, Adam', False)
+(4,74,2,10,-1, 'rush', 'Rodriguez, Ayron', False)
+(4,75,3,11,11, 'pass', 'Urena, Adam', False)
+(4,76,1,10,16, 'pass', 'Urena, Adam', False)
+(4,77,1,10,12, 'other', 'Urena, Adam', False)
+(4,78,2,22,0, 'other', 'None', False),
+(4,79,2,22,7, 'pass', 'Urena, Adam', False)
+(4,80,3,15,0, 'other', 'None', False),
+(4,81,3,15,10, 'pass', 'Urena, Adam', False)
+(4,82,4,5,6, 'other', 'Urena, Adam', False)
+(4,83,1,10,0, 'other', 'None', False),
+(4,84,1,10,6, 'pass', 'Mellott, Tommy', False)
+(4,85,2,4,8, 'pass', 'Mellott, Tommy', False)
+(4,86,1,10,6, 'pass', 'Mellott, Tommy', False)
+(4,87,2,4,5, 'rush', 'Mellott, Tommy', False)
+(4,88,1,10,5, 'pass', 'Mellott, Tommy', False)
+(4,89,2,5,0, 'other', 'None', False),
+(4,90,2,5,50, 'pass', 'Mellott, Tommy', True)
+(4,91,1,10,0, 'extra point', 'Sansted, Myles', True)
+(4,92,1,10,65, 'kickoff', 'Hall, Brendan', False)
+(4,93,1,10,0, 'other', 'None', False),
+(4,94,1,10,0, 'pass', 'Urena, Adam', False)
+(4,95,2,22,-1, 'rush', 'Rodriguez, Ayron', False)
+(4,96,3,23,0, 'other', 'None', False),
+(4,97,1,10,0, 'other', 'None', False),
+(4,98,1,10,1, 'rush', 'Rodriguez, Ayron', False)
+(4,99,2,9,26, 'pass', 'Urena, Adam', False)
+(4,100,1,10,1, 'rush', 'Rodriguez, Ayron', False)
+(4,101,2,9,-3, 'rush', 'Rodriguez, Ayron', False)
+(4,102,3,12,0, 'pass', 'Urena, Adam', False)
+(4,103,4,12,35, 'punt', 'Pittman, Hunter', False)
+(4,104,1,10,0, 'other', 'None', False),
+(4,105,1,10,6, 'rush', 'Jones, Adam', False)
+(4,106,2,4,35, 'rush', 'McCullouch, Ty', False)
+(4,107,1,10,0, 'pass', 'Mellott, Tommy', False)
+(4,108,2,10,10, 'pass', 'Mellott, Tommy', False)
+(4,109,1,10,5, 'pass', 'Mellott, Tommy', False)
+(4,110,2,5,8, 'pass', 'Mellott, Tommy', False)
+(4,111,1,10,5, 'rush', 'Humphrey, Scottre', False)
+(4,112,2,5,0, 'pass', 'Mellott, Tommy', False)
+(4,113,3,5,16, 'pass', 'Mellott, Tommy', True)
+(4,114,1,10,0, 'extra point', 'Sansted, Myles', True)
+(4,115,1,10,65, 'kickoff', 'Hall, Brendan', False)
+(4,116,1,10,0, 'other', 'None', False),
+(4,117,1,10,7, 'rush', 'Trobel, Brian', False)
+(4,118,2,3,-6, 'pass', 'Urena, Adam', False)
+(4,119,3,9,1, 'pass', 'Urena, Adam', False)
+(4,120,4,8,58, 'punt', 'Pittman, Hunter', False)
+(4,121,1,10,0, 'other', 'None', False),
+(4,122,1,10,10, 'rush', 'White, Jared', False)
+(4,123,1,10,0, 'other', 'None', False),
+(4,124,1,10,0, 'rush', 'White, Jared', True)
+(4,125,1,10,5, 'other', 'None', False),
+(4,126,1,10,0, 'extra point', 'Nagucki, Nathan', False)
+(4,127,1,10,14, 'kickoff', 'Kline, Kaedon', False)
+(4,128,1,10,0, 'other', 'None', False),
+(4,129,1,10,0, 'pass', 'Urena, Adam', False)
+(4,130,2,10,1, 'rush', 'Trobel, Brian', False)
+(4,131,3,9,5, 'pass', 'Urena, Adam', False)
+(4,132,4,4,0, 'pass', 'Urena, Adam', False)
+(4,133,1,10,0, 'other', 'None', False),
+(4,134,1,10,5, 'rush', 'Coon, Colson', False)
+(4,135,2,5,50, 'rush', 'Coon, Colson', True)
+(4,136,1,10,0, 'extra point', 'Sansted, Myles', True)
+(4,137,1,10,65, 'kickoff', 'Hall, Brendan', False)
+(4,138,1,10,0, 'other', 'None', False),
+(4,139,1,10,-1, 'rush', 'Rodriguez, Ayron', False)
+(4,140,2,11,8, 'pass', 'Urena, Adam', False)
+(4,141,3,3,8, 'rush', 'Rodriguez, Ayron', False)
+(4,142,1,10,7, 'pass', 'Urena, Adam', False)
+(4,143,2,3,2, 'rush', 'Rodriguez, Ayron', False)
+(4,144,3,1,10, 'rush', 'Rodriguez, Ayron', False)
+(4,145,1,10,0, 'other', 'None', False),
+(4,146,1,10,15, 'pass', 'Urena, Adam', False)
+(4,147,1,10,0, 'pass', 'Urena, Adam', False)
+(4,148,2,10,-6, 'rush', 'Urena, Adam', False)
+(4,149,3,16,3, 'other', 'Urena, Adam', False)
+(4,150,4,19,19, 'pass', 'Urena, Adam', False)
+(4,151,1,10,0, 'rush', 'Rodriguez, Ayron', False)
+(4,152,2,10,0, 'pass', 'Urena, Adam', False)
+(4,153,3,10,1, 'pass', 'Urena, Adam', False)
+(4,154,4,9,5, 'other', 'None', False),
+(4,155,4,4,5, 'pass', 'Urena, Adam', False)
+(4,156,1,5,0, 'pass', 'Urena, Adam', False)
+(4,157,2,5,0, 'pass', 'Urena, Adam', False)
+(4,158,3,5,5, 'pass', 'Urena, Adam', True)
+(4,159,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(4,160,1,10,65, 'kickoff', 'Kline, Kaedon', False)
+(4,161,1,10,0, 'other', 'None', False),
+(4,162,1,10,8, 'rush', 'Coon, Colson', False)
+(4,163,2,2,1, 'rush', 'Coon, Colson', False)
+(4,164,2,11,12, 'rush', 'Coon, Colson', False)
+(4,165,1,10,4, 'rush', 'Coon, Colson', False)
+(4,166,2,6,32, 'pass', 'Wilson, Chance', False)
+(4,167,1,10,5, 'rush', 'Coon, Colson', False)
+(4,168,2,5,8, 'rush', 'Coon, Colson', False)
+(4,169,1,10,9, 'rush', 'Coon, Colson', False)
+(4,170,2,1,0, 'rush', 'Coon, Colson', False)
+(4,171,3,1,5, 'rush', 'Wilson, Chance', True)
+(4,172,1,10,0, 'extra point', 'Sansted, Myles', True)
+(4,173,1,10,65, 'kickoff', 'Hall, Brendan', False)
+(4,174,1,10,0, 'other', 'None', False),
+(4,175,1,10,7, 'rush', 'Askew, Jordan', False)
+(4,176,2,3,5, 'pass', 'Urena, Adam', False)
+(4,177,1,10,0, 'pass', 'Urena, Adam', False)
+(4,178,2,10,3, 'rush', 'Askew, Jordan', False)
+(4,179,3,7,0, 'other', 'None', False),
+(4,180,3,7,11, 'pass', 'Urena, Adam', False)
+(4,181,1,10,0, 'pass', 'Urena, Adam', False)
+(4,182,2,10,7, 'pass', 'Urena, Adam', False)
+(4,183,3,3,0, 'pass', 'Urena, Adam', False)
+(4,184,4,3,4, 'pass', 'Urena, Adam', False)
+(4,185,1,10,2, 'rush', 'Pappas, Mike', False)
+(4,186,2,8,4, 'pass', 'Urena, Adam', False)
+(4,187,3,4,0, 'other', 'None', False),
+(4,188,3,4,0, 'rush', 'Urena, Adam', False)
+(4,189,4,4,0, 'other', 'None', False),
+(4,190,4,4,16, 'pass', 'Urena, Adam', False)
+(4,191,1,10,0, 'pass', 'Urena, Adam', False)
+(4,192,2,10,0, 'pass', 'Urena, Adam', False)
+(4,193,3,10,0, 'other', 'None', False),
+(5,1,1,10,0, 'other', 'None', False),
+(5,2,1,10,0, 'pass', 'Fulton, Myles', False)
+(5,3,2,10,17, 'rush', 'Doyle, Owen', False)
+(5,4,1,10,3, 'rush', 'Doyle, Owen', False)
+(5,5,2,7,0, 'pass', 'Fulton, Myles', False)
+(5,6,3,7,5, 'other', 'None', False),
+(5,7,3,12,8, 'rush', 'Fulton, Myles', False)
+(5,8,4,4,25, 'pass', 'Fulton, Myles', False)
+(5,9,1,4,0, 'rush', 'Doyle, Owen', False)
+(5,10,2,4,4, 'pass', 'Fulton, Myles', True)
+(5,11,1,10,0, 'extra point', 'Keen, Brandon', True)
+(5,12,1,10,12, 'kickoff', 'Fritz, Harrison', False)
+(5,13,1,10,0, 'other', 'None', False),
+(5,14,2,8,0, 'other', 'None', False),
+(5,15,1,10,2, 'pass', 'Fulton, Myles', False)
+(5,16,2,8,18, 'pass', 'Fulton, Myles', False)
+(5,17,1,10,8, 'pass', 'Fulton, Myles', False)
+(5,18,2,2,25, 'pass', 'Fulton, Myles', True)
+(5,19,1,10,0, 'extra point', 'Keen, Brandon', True)
+(5,20,1,10,15, 'other', 'None', False),
+(5,21,1,10,61, 'kickoff', 'Fritz, Harrison', False)
+(5,22,1,10,0, 'other', 'None', False),
+(5,23,1,10,21, 'rush', 'Kerbacher, Joe', False)
+(5,24,1,10,7, 'pass', 'Urena, Adam', False)
+(5,25,2,3,0, 'pass', 'Urena, Adam', False)
+(5,26,2,3,9, 'rush', 'Rodriguez, Ayron', False)
+(5,27,1,10,5, 'rush', 'Rodriguez, Ayron', False)
+(5,28,2,5,0, 'rush', 'Rodriguez, Ayron', False)
+(5,29,3,5,20, 'pass', 'Urena, Adam', False)
+(5,30,1,10,0, 'pass', 'Urena, Adam', False)
+(5,31,2,10,5, 'rush', 'Rodriguez, Ayron', False)
+(5,32,3,5,8, 'pass', 'Urena, Adam', False)
+(5,33,3,5,0, 'pass', 'Urena, Adam', False)
+(5,34,4,5,24, 'field goal', 'Nagucki, Nathan', True)
+(5,35,1,10,0, 'other', 'None', False),
+(5,36,1,10,2, 'rush', 'Doyle, Owen', False)
+(5,37,2,8,7, 'pass', 'Fulton, Myles', False)
+(5,38,3,1,8, 'rush', 'Doyle, Owen', False)
+(5,39,1,10,5, 'rush', 'Doyle, Owen', False)
+(5,40,2,5,0, 'pass', 'Fulton, Myles', False)
+(5,41,3,5,0, 'pass', 'Fulton, Myles', False)
+(5,42,4,5,36, 'punt', 'Dominguez, Sam', False)
+(5,43,1,10,0, 'pass', 'Fulton, Myles', False)
+(5,44,2,10,0, 'rush', 'Fulton, Myles', False)
+(5,45,3,10,0, 'other', 'None', False),
+(5,46,3,10,0, 'pass', 'Fulton, Myles', False)
+(5,47,4,10,36, 'punt', 'Dominguez, Sam', False)
+(5,48,1,10,0, 'other', 'None', False),
+(5,49,1,10,11, 'rush', 'Kerbacher, Joe', False)
+(5,50,1,10,0, 'pass', 'Urena, Adam', False)
+(5,51,2,10,7, 'rush', 'Trobel, Brian', False)
+(5,52,3,3,5, 'pass', 'Urena, Adam', False)
+(5,53,1,10,-1, 'rush', 'Trobel, Brian', False)
+(5,54,2,11,20, 'rush', 'Trobel, Brian', False)
+(5,55,1,10,2, 'rush', 'Trobel, Brian', False)
+(5,56,2,8,2, 'pass', 'Urena, Adam', False)
+(5,57,3,6,29, 'pass', 'Urena, Adam', False)
+(5,58,1,10,10, 'pass', 'Urena, Adam', True)
+(5,59,1,10,5, 'other', 'None', False),
+(5,60,1,10,0, 'extra point', 'Nagucki, Nathan', False)
+(5,61,1,10,60, 'kickoff', 'Kline, Kaedon', False)
+(5,62,1,10,65, 'kickoff', 'Kline, Kaedon', False)
+(5,63,1,10,0, 'other', 'None', False),
+(5,64,1,10,3, 'pass', 'Fulton, Myles', False)
+(5,65,2,7,0, 'pass', 'Fulton, Myles', False)
+(5,66,3,7,9, 'rush', 'Fulton, Myles', False)
+(5,67,1,10,8, 'rush', 'Smith, Andre', False)
+(5,68,2,2,2, 'rush', 'Smith, Andre', False)
+(5,69,1,10,7, 'rush', 'Smith, Andre', False)
+(5,70,2,3,15, 'pass', 'Fulton, Myles', False)
+(5,71,1,10,7, 'rush', 'Smith, Andre', False)
+(5,72,2,3,22, 'rush', 'Smith, Andre', False)
+(5,73,1,7,6, 'rush', 'Smith, Andre', False)
+(5,74,2,1,-1, 'rush', 'Smith, Andre', False)
+(5,75,3,2,-2, 'rush', 'Smith, Andre', False)
+(5,76,4,4,14, 'field goal', 'Keen, Brandon', True)
+(5,77,1,10,65, 'kickoff', 'Fritz, Harrison', False)
+(5,78,1,10,0, 'other', 'None', False),
+(5,79,1,10,30, 'pass', 'Urena, Adam', False)
+(5,80,1,10,0, 'rush', 'Davis, Earnest', False)
+(5,81,2,10,0, 'pass', 'Urena, Adam', False)
+(5,82,3,10,14, 'pass', 'Urena, Adam', False)
+(5,83,1,10,15, 'pass', 'Urena, Adam', False)
+(5,84,1,1,1, 'rush', 'Davison, Rylan', True)
+(5,85,1,10,0, 'pass', 'Urena, Adam', False)
+(5,86,1,10,64, 'kickoff', 'Kline, Kaedon', False)
+(5,87,1,10,0, 'other', 'None', False),
+(5,88,1,10,-3, 'pass', 'Fulton, Myles', False)
+(5,89,2,13,0, 'other', 'None', False),
+(5,90,1,10,0, 'other', 'None', False),
+(5,91,1,10,3, 'other', 'Urena, Adam', False)
+(5,92,2,13,-2, 'pass', 'Urena, Adam', False)
+(5,93,3,15,0, 'pass', 'Urena, Adam', False)
+(5,94,4,15,45, 'punt', 'Pittman, Hunter', False)
+(5,95,1,10,0, 'other', 'None', False),
+(5,96,1,10,0, 'rush', 'Doyle, Owen', False)
+(5,97,2,10,9, 'rush', 'Doyle, Owen', False)
+(5,98,3,1,6, 'rush', 'Doyle, Owen', False)
+(5,99,1,10,30, 'pass', 'Fulton, Myles', False)
+(5,100,1,8,0, 'other', 'None', False),
+(5,101,1,8,5, 'other', 'None', False),
+(5,102,1,13,6, 'pass', 'Urena, Adam', False)
+(5,103,2,7,6, 'rush', 'Trobel, Brian', False)
+(5,104,3,1,1, 'rush', 'Trobel, Brian', True)
+(5,105,1,10,0, 'pass', 'Urena, Adam', False)
+(5,106,1,10,64, 'kickoff', 'Kline, Kaedon', False)
+(5,107,1,10,0, 'other', 'None', False),
+(5,108,1,10,0, 'other', 'None', False),
+(5,109,1,10,4, 'pass', 'Fulton, Myles', False)
+(5,110,2,6,3, 'rush', 'Aaron, Sean', False)
+(5,111,3,3,17, 'pass', 'Fulton, Myles', False)
+(5,112,1,10,1, 'rush', 'Aaron, Sean', False)
+(5,113,2,9,12, 'pass', 'Fulton, Myles', False)
+(5,114,1,10,5, 'rush', 'Doyle, Owen', False)
+(5,115,2,5,21, 'rush', 'Doyle, Owen', False)
+(5,116,1,10,5, 'rush', 'Fulton, Myles', False)
+(5,117,2,5,4, 'rush', 'Doyle, Owen', False)
+(5,118,3,1,13, 'pass', 'Fulton, Myles', True)
+(5,119,1,10,0, 'other', 'None', False),
+(5,120,1,10,0, 'pass', 'N'namdi-Hall, Amari', True)
+(5,121,1,10,15, 'other', 'None', False),
+(5,122,1,10,39, 'kickoff', 'Fritz, Harrison', False)
+(5,123,1,10,0, 'other', 'None', False),
+(5,124,1,10,4, 'pass', 'Urena, Adam', False)
+(5,125,2,6,11, 'rush', 'Rodriguez, Ayron', False)
+(5,126,1,10,5, 'rush', 'Rodriguez, Ayron', False)
+(5,127,2,5,1, 'pass', 'Urena, Adam', False)
+(5,128,3,4,2, 'pass', 'Urena, Adam', False)
+(5,129,4,2,0, 'other', 'None', False),
+(5,130,4,2,5, 'rush', 'Rodriguez, Ayron', False)
+(5,131,1,10,0, 'other', 'None', False),
+(5,132,2,7,0, 'other', 'None', False),
+(5,133,1,10,3, 'rush', 'Smith, Andre', False)
+(5,134,2,7,2, 'pass', 'Fulton, Myles', False)
+(5,135,3,5,2, 'rush', 'Smith, Andre', False)
+(5,136,4,3,0, 'pass', 'Fulton, Myles', False)
+(5,137,1,10,0, 'other', 'None', False),
+(5,138,1,10,4, 'rush', 'Trobel, Brian', False)
+(5,139,2,6,3, 'other', 'Urena, Adam', False)
+(5,140,3,9,13, 'pass', 'Urena, Adam', False)
+(5,141,1,10,1, 'rush', 'Trobel, Brian', False)
+(5,142,2,9,18, 'pass', 'Urena, Adam', False)
+(5,143,1,10,35, 'pass', 'Urena, Adam', True)
+(5,144,1,10,0, 'pass', 'Kim, Austin', False)
+(5,145,1,10,64, 'kickoff', 'Kline, Kaedon', False)
+(5,146,1,10,0, 'other', 'None', False),
+(5,147,1,10,0, 'rush', 'Doyle, Owen', False)
+(5,148,2,10,10, 'pass', 'Fulton, Myles', False)
+(5,149,1,10,4, 'rush', 'Doyle, Owen', False)
+(5,150,2,6,5, 'pass', 'Fulton, Myles', False)
+(5,151,3,1,8, 'rush', 'Aaron, Sean', False)
+(5,152,1,10,15, 'rush', 'Aaron, Sean', False)
+(5,153,1,10,3, 'rush', 'Aaron, Sean', False)
+(5,154,2,7,4, 'rush', 'Aaron, Sean', False)
+(5,155,3,3,-1, 'rush', 'Doyle, Owen', False)
+(5,156,4,4,40, 'field goal', 'Keen, Brandon', True)
+(5,157,1,10,0, 'other', 'None', False),
+(5,158,1,10,20, 'pass', 'Urena, Adam', False)
+(5,159,1,10,0, 'other', 'None', False),
+(5,160,1,10,25, 'rush', 'Doyle, Owen', False)
+(5,161,1,20,17, 'pass', 'Fulton, Myles', False)
+(5,162,2,3,4, 'rush', 'Doyle, Owen', False)
+(5,163,1,10,0, 'other', 'None', False),
+(5,164,1,10,3, 'rush', 'Doyle, Owen', False)
+(5,165,2,7,0, 'other', 'None', False),
+(5,166,2,7,7, 'rush', 'Doyle, Owen', False)
+(5,167,1,10,0, 'rush', 'Fulton, Myles', False)
+(5,168,2,12,0, 'rush', 'Fulton, Myles', False)
+(5,169,3,14,0, 'other', 'None', False),
+(6,1,1,10,0, 'other', 'None', False),
+(6,2,1,10,0, 'rush', 'Davis, Earnest', False)
+(6,3,2,10,12, 'pass', 'Urena, Adam', False)
+(6,4,1,10,4, 'pass', 'Urena, Adam', False)
+(6,5,2,6,39, 'pass', 'Urena, Adam', False)
+(6,6,1,10,13, 'pass', 'Urena, Adam', False)
+(6,7,1,7,7, 'pass', 'Urena, Adam', True)
+(6,8,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(6,9,1,10,60, 'kickoff', 'Nagucki, Nathan', False)
+(6,10,1,10,0, 'other', 'None', False),
+(6,11,1,10,0, 'pass', 'Cameron, Amir', False)
+(6,12,2,10,10, 'rush', 'Cameron, Amir', False)
+(6,13,1,10,2, 'rush', 'Wilson, Ale', False)
+(6,14,2,8,6, 'pass', 'Cameron, Amir', False)
+(6,15,3,2,4, 'other', 'Cameron, Amir', False)
+(6,16,4,6,48, 'punt', 'Sciandra, Nick', False)
+(6,17,1,10,0, 'other', 'None', False),
+(6,18,1,10,23, 'pass', 'Urena, Adam', False)
+(6,19,1,10,3, 'rush', 'Trobel, Brian', False)
+(6,20,1,10,5, 'rush', 'Trobel, Brian', False)
+(6,21,2,5,2, 'rush', 'Trobel, Brian', False)
+(6,22,3,3,0, 'pass', 'Urena, Adam', False)
+(6,23,4,3,20, 'field goal', 'Nagucki, Nathan', True)
+(6,24,1,10,59, 'kickoff', 'Nagucki, Nathan', False)
+(6,25,1,10,0, 'other', 'None', False),
+(6,26,1,10,1, 'rush', 'Wilson, Ale', False)
+(6,27,1,15,0, 'other', 'Cameron, Amir', False)
+(6,28,2,15,0, 'pass', 'Cameron, Amir', False)
+(6,29,3,15,8, 'other', 'Cameron, Amir', False)
+(6,30,4,23,44, 'punt', 'Sciandra, Nick', False)
+(6,31,1,10,0, 'other', 'None', False),
+(6,32,1,10,4, 'rush', 'Davis, Earnest', False)
+(6,33,2,6,12, 'rush', 'Trobel, Brian', False)
+(6,34,1,10,5, 'pass', 'Urena, Adam', False)
+(6,35,2,5,6, 'pass', 'Urena, Adam', False)
+(6,36,1,10,3, 'pass', 'Urena, Adam', False)
+(6,37,2,7,7, 'rush', 'Davis, Earnest', False)
+(6,38,1,10,18, 'pass', 'Urena, Adam', True)
+(6,39,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(6,40,1,10,55, 'kickoff', 'Kline, Kaedon', False)
+(6,41,1,10,0, 'other', 'None', False),
+(6,42,1,10,7, 'rush', 'Cameron, Amir', False)
+(6,43,2,3,2, 'rush', 'Phillips, Cody', False)
+(6,44,3,1,2, 'pass', 'Cameron, Amir', False)
+(6,45,1,10,0, 'pass', 'Cameron, Amir', False)
+(6,46,2,10,5, 'rush', 'Cameron, Amir', False)
+(6,47,3,5,-4, 'rush', 'Cameron, Amir', False)
+(6,48,4,7,31, 'punt', 'Sciandra, Nick', False)
+(6,49,1,10,0, 'other', 'None', False),
+(6,50,1,10,18, 'rush', 'Davis, Chaz', False)
+(6,51,1,10,15, 'rush', 'Rodriguez, Ayron', False)
+(6,52,1,10,3, 'rush', 'Rodriguez, Ayron', False)
+(6,53,2,7,13, 'pass', 'Urena, Adam', False)
+(6,54,1,10,0, 'pass', 'Urena, Adam', False)
+(6,55,2,10,11, 'rush', 'Rodriguez, Ayron', False)
+(6,56,1,10,0, 'pass', 'Urena, Adam', False)
+(6,57,2,10,0, 'other', 'None', False),
+(6,58,2,10,18, 'pass', 'Urena, Adam', True)
+(6,59,1,3,0, 'extra point', 'Nagucki, Nathan', True)
+(6,60,1,10,0, 'other', 'None', False),
+(6,61,1,10,60, 'kickoff', 'Nagucki, Nathan', False)
+(6,62,1,10,0, 'other', 'None', False),
+(6,63,1,10,1, 'rush', 'Wilson, Ale', False)
+(6,64,2,9,0, 'pass', 'Cameron, Amir', False)
+(6,65,3,9,8, 'pass', 'Cameron, Amir', False)
+(6,66,4,1,-4, 'rush', 'Wilson, Ale', False)
+(6,67,1,10,0, 'pass', 'Cameron, Amir', False)
+(6,68,2,10,-2, 'rush', 'Wilson, Ale', False)
+(6,69,3,12,7, 'rush', 'Cameron, Amir', False)
+(6,70,4,5,5, 'punt', 'Sciandra, Nick', False)
+(6,71,1,10,2, 'rush', 'Phillips, Cody', False)
+(6,72,2,8,0, 'other', 'Cameron, Amir', False)
+(6,73,3,8,15, 'other', 'None', False),
+(6,74,3,23,0, 'pass', 'Kimble, Noah', False)
+(6,75,4,23,42, 'punt', 'Sciandra, Nick', False)
+(6,76,1,10,0, 'other', 'None', False),
+(6,77,1,10,0, 'pass', 'Urena, Adam', False)
+(6,78,2,10,5, 'pass', 'Urena, Adam', False)
+(6,79,3,5,22, 'pass', 'Urena, Adam', False)
+(6,80,1,10,17, 'pass', 'Urena, Adam', False)
+(6,81,1,10,4, 'pass', 'Urena, Adam', False)
+(6,82,2,5,0, 'pass', 'Urena, Adam', False)
+(6,83,3,5,12, 'rush', 'Rodriguez, Ayron', False)
+(6,84,1,10,8, 'pass', 'Urena, Adam', False)
+(6,85,2,2,0, 'pass', 'Urena, Adam', False)
+(6,86,3,2,0, 'pass', 'Urena, Adam', False)
+(6,87,4,2,8, 'rush', 'Rodriguez, Ayron', False)
+(6,88,1,1,2, 'pass', 'Urena, Adam', True)
+(6,89,1,3,0, 'extra point', 'None', True),
+(6,90,1,10,59, 'kickoff', 'Nagucki, Nathan', False)
+(6,91,1,10,0, 'other', 'None', False),
+(6,92,1,10,9, 'pass', 'Kimble, Noah', False)
+(6,93,1,10,0, 'other', 'None', False),
+(6,94,1,10,0, 'pass', 'Urena, Adam', False)
+(6,95,2,10,20, 'field goal', 'Nagucki, Nathan', True)
+(6,96,1,10,0, 'other', 'None', False),
+(6,97,1,10,0, 'other', 'None', False),
+(6,98,1,10,-2, 'rush', 'Wilson, Ale', False)
+(6,99,2,12,0, 'pass', 'Kimble, Noah', False)
+(6,100,3,12,-7, 'pass', 'Kimble, Noah', False)
+(6,101,4,19,19, 'punt', 'Sciandra, Nick', False)
+(6,102,1,10,0, 'other', 'None', False),
+(6,103,1,10,0, 'pass', 'Urena, Adam', False)
+(6,104,2,10,11, 'rush', 'Davis, Chaz', False)
+(6,105,1,10,2, 'rush', 'Trobel, Brian', False)
+(6,106,2,8,10, 'rush', 'Trobel, Brian', False)
+(6,107,1,10,-3, 'rush', 'Trobel, Brian', False)
+(6,108,2,13,8, 'pass', 'Urena, Adam', False)
+(6,109,3,5,0, 'pass', 'Urena, Adam', False)
+(6,110,4,5,0, 'pass', 'Urena, Adam', False)
+(6,111,1,10,0, 'other', 'None', False),
+(6,112,1,10,8, 'pass', 'Kimble, Noah', False)
+(6,113,2,2,7, 'rush', 'Boadi, Chris', False)
+(6,114,1,10,2, 'rush', 'Boadi, Chris', False)
+(6,115,2,8,10, 'rush', 'Boadi, Chris', False)
+(6,116,1,10,3, 'rush', 'Boadi, Chris', False)
+(6,117,2,7,1, 'rush', 'Boadi, Chris', False)
+(6,118,3,6,0, 'pass', 'Kimble, Noah', False)
+(6,119,4,6,0, 'pass', 'Kimble, Noah', False)
+(6,120,1,10,0, 'other', 'None', False),
+(6,121,1,10,7, 'rush', 'Davis, Earnest', False)
+(6,122,2,3,8, 'rush', 'Davis, Earnest', False)
+(6,123,1,10,6, 'rush', 'Davis, Earnest', False)
+(6,124,2,4,2, 'rush', 'Urena, Adam', False)
+(6,125,3,2,41, 'pass', 'Urena, Adam', True)
+(6,126,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(6,127,1,10,54, 'kickoff', 'Kline, Kaedon', False)
+(6,128,1,10,0, 'other', 'None', False),
+(6,129,1,10,5, 'rush', 'Phillips, Cody', False)
+(6,130,2,5,3, 'rush', 'Phillips, Cody', False)
+(6,131,3,2,0, 'pass', 'Kimble, Noah', False)
+(6,132,4,2,56, 'punt', 'Sciandra, Nick', False)
+(6,133,4,2,0, 'other', 'None', False),
+(6,134,1,10,0, 'other', 'None', False),
+(6,135,1,10,10, 'rush', 'Rodriguez, Ayron', False)
+(6,136,1,10,0, 'other', 'None', False),
+(6,137,1,10,3, 'rush', 'Rodriguez, Ayron', False)
+(6,138,2,7,8, 'pass', 'Urena, Adam', False)
+(6,139,1,10,9, 'rush', 'Rodriguez, Ayron', False)
+(6,140,2,1,3, 'pass', 'Urena, Adam', False)
+(6,141,1,10,28, 'rush', 'Davis, Chaz', False)
+(6,142,1,10,9, 'other', 'Urena, Adam', False)
+(6,143,2,19,-1, 'pass', 'Urena, Adam', False)
+(6,144,3,20,19, 'pass', 'Urena, Adam', False)
+(6,145,4,1,15, 'pass', 'Urena, Adam', True)
+(6,146,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(6,147,1,10,64, 'kickoff', 'Kline, Kaedon', False)
+(6,148,1,10,0, 'other', 'None', False),
+(6,149,1,10,8, 'pass', 'Kimble, Noah', False)
+(6,150,2,2,4, 'rush', 'Boadi, Chris', False)
+(6,151,1,10,4, 'rush', 'Boadi, Chris', False)
+(6,152,2,6,30, 'pass', 'Kimble, Noah', False)
+(6,153,1,10,2, 'rush', 'Boadi, Chris', False)
+(6,154,2,8,2, 'rush', 'Boadi, Chris', False)
+(6,155,3,6,0, 'pass', 'Kimble, Noah', False)
+(6,156,4,6,0, 'pass', 'Kimble, Noah', False)
+(6,157,1,10,0, 'other', 'None', False),
+(6,158,1,10,9, 'pass', 'Gevaudan, Alex', False)
+(6,159,2,1,28, 'rush', 'Lattimore, Amare', False)
+(6,160,1,10,42, 'pass', 'Gevaudan, Alex', True)
+(6,161,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(6,162,1,10,64, 'kickoff', 'Kline, Kaedon', False)
+(6,163,1,10,0, 'other', 'None', False),
+(6,164,1,10,5, 'rush', 'Kimble, Noah', False)
+(6,165,2,5,5, 'pass', 'Kimble, Noah', False)
+(6,166,1,10,0, 'other', 'None', False),
+(6,167,1,10,3, 'rush', 'Phillips, Cody', False)
+(6,168,2,7,10, 'pass', 'Kimble, Noah', False)
+(6,169,1,10,0, 'pass', 'Kimble, Noah', False)
+(6,170,2,10,15, 'other', 'None', False),
+(6,171,1,10,6, 'pass', 'Kimble, Noah', False)
+(6,172,2,4,0, 'pass', 'Kimble, Noah', False)
+(6,173,3,4,0, 'pass', 'Kimble, Noah', False)
+(6,174,4,4,0, 'pass', 'Kimble, Noah', False)
+(6,175,1,10,0, 'other', 'None', False),
+(6,176,1,10,0, 'rush', 'Davis, Earnest', False)
+(6,177,2,10,0, 'other', 'None', False),
+(7,1,1,10,0, 'other', 'None', False),
+(7,2,1,10,3, 'pass', 'Urena, Adam', False)
+(7,3,1,10,3, 'rush', 'Davis, Earnest', False)
+(7,4,2,7,14, 'pass', 'Urena, Adam', False)
+(7,5,1,10,0, 'pass', 'Urena, Adam', False)
+(7,6,2,10,0, 'pass', 'Urena, Adam', False)
+(7,7,3,10,0, 'pass', 'Urena, Adam', False)
+(7,8,4,10,15, 'pass', 'Urena, Adam', False)
+(7,9,1,10,0, 'other', 'None', False),
+(7,10,1,10,11, 'rush', 'Howard, Elijah', False)
+(7,11,1,10,24, 'rush', 'Howard, Elijah', False)
+(7,12,1,10,0, 'pass', 'Olson, Brady', False)
+(7,13,2,10,0, 'rush', 'Howard, Elijah', False)
+(7,14,3,10,0, 'pass', 'Olson, Brady', False)
+(7,15,4,10,39, 'field goal', 'Barnum, Jack', True)
+(7,16,1,10,0, 'other', 'None', False),
+(7,17,1,10,10, 'rush', 'Davis, Earnest', False)
+(7,18,1,10,10, 'pass', 'Urena, Adam', False)
+(7,19,1,10,15, 'pass', 'Urena, Adam', False)
+(7,20,1,10,9, 'pass', 'Urena, Adam', False)
+(7,21,2,1,7, 'rush', 'Davis, Earnest', False)
+(7,22,1,10,0, 'rush', 'Davis, Earnest', False)
+(7,23,2,10,5, 'pass', 'Urena, Adam', False)
+(7,24,3,5,22, 'pass', 'Urena, Adam', True)
+(7,25,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(7,26,1,10,45, 'kickoff', 'Kline, Kaedon', False)
+(7,27,1,10,0, 'other', 'None', False),
+(7,28,1,10,3, 'rush', 'Howard, Elijah', False)
+(7,29,2,7,5, 'rush', 'Howard, Elijah', False)
+(7,30,3,2,11, 'rush', 'Howard, Elijah', False)
+(7,31,1,10,5, 'rush', 'Olson, Brady', False)
+(7,32,2,5,12, 'rush', 'Howard, Elijah', False)
+(7,33,1,10,3, 'rush', 'Olson, Brady', False)
+(7,34,2,7,0, 'pass', 'Olson, Brady', False)
+(7,35,3,7,1, 'rush', 'Olson, Brady', False)
+(7,36,4,6,12, 'pass', 'Olson, Brady', False)
+(7,37,1,10,6, 'rush', 'Turner, Jadon', False)
+(7,38,2,4,6, 'rush', 'Turner, Jadon', False)
+(7,39,1,9,5, 'other', 'None', False),
+(7,40,1,9,0, 'other', 'None', False),
+(7,41,1,14,0, 'other', 'None', False),
+(7,42,1,14,6, 'rush', 'Howard, Elijah', False)
+(7,43,2,8,8, 'rush', 'Ortega, Ricky', True)
+(7,44,1,10,0, 'extra point', 'Barnum, Jack', True)
+(7,45,1,10,52, 'kickoff', 'Barnum, Jack', False)
+(7,46,1,10,0, 'other', 'None', False),
+(7,47,1,10,0, 'pass', 'Urena, Adam', False)
+(7,48,2,10,5, 'other', 'None', False),
+(7,49,2,15,0, 'pass', 'Urena, Adam', False)
+(7,50,3,15,9, 'other', 'Urena, Adam', False)
+(7,51,1,10,0, 'other', 'None', False),
+(7,52,1,10,3, 'rush', 'Olson, Brady', False)
+(7,53,2,7,-2, 'rush', 'Howard, Elijah', False)
+(7,54,3,9,10, 'pass', 'Olson, Brady', True)
+(7,55,1,10,0, 'extra point', 'Barnum, Jack', True)
+(7,56,1,10,50, 'kickoff', 'Barnum, Jack', False)
+(7,57,1,10,0, 'other', 'None', False),
+(7,58,1,10,2, 'rush', 'Davis, Chaz', False)
+(7,59,2,8,13, 'rush', 'Rodriguez, Ayron', False)
+(7,60,1,10,0, 'rush', 'Rodriguez, Ayron', False)
+(7,61,2,10,18, 'pass', 'Urena, Adam', False)
+(7,62,1,10,5, 'pass', 'Urena, Adam', False)
+(7,63,2,5,9, 'pass', 'Urena, Adam', False)
+(7,64,1,10,13, 'pass', 'Urena, Adam', False)
+(7,65,1,10,5, 'other', 'None', False),
+(7,66,1,15,0, 'pass', 'Urena, Adam', False)
+(7,67,1,10,0, 'other', 'None', False),
+(7,68,1,10,7, 'rush', 'Turner, Jadon', False)
+(7,69,2,3,2, 'rush', 'Turner, Jadon', False)
+(7,70,3,1,0, 'other', 'None', False),
+(7,71,3,1,10, 'rush', 'Howard, Elijah', False)
+(7,72,1,10,11, 'rush', 'Howard, Elijah', False)
+(7,73,1,10,12, 'rush', 'Howard, Elijah', False)
+(7,74,1,10,20, 'rush', 'Olson, Brady', False)
+(7,75,1,15,7, 'rush', 'Turner, Jadon', False)
+(7,76,2,8,12, 'pass', 'Olson, Brady', False)
+(7,77,1,10,16, 'rush', 'Turner, Jadon', False)
+(7,78,1,8,-3, 'rush', 'Turner, Jadon', False)
+(7,79,2,11,1, 'rush', 'Ortega, Ricky', False)
+(7,80,3,10,6, 'pass', 'Olson, Brady', False)
+(7,81,4,4,0, 'other', 'None', False),
+(7,82,4,4,22, 'field goal', 'Barnum, Jack', True)
+(7,83,1,10,61, 'kickoff', 'Barnum, Jack', False)
+(7,84,1,10,0, 'other', 'None', False),
+(7,85,1,10,7, 'pass', 'Urena, Adam', False)
+(7,86,2,3,12, 'pass', 'Urena, Adam', False)
+(7,87,1,10,0, 'other', 'None', False),
+(7,88,1,10,0, 'pass', 'Urena, Adam', False)
+(7,89,2,10,10, 'pass', 'Urena, Adam', False)
+(7,90,1,10,0, 'pass', 'Urena, Adam', False)
+(7,91,2,10,29, 'pass', 'Urena, Adam', False)
+(7,92,2,20,0, 'other', 'None', False),
+(7,93,2,20,9, 'other', 'Urena, Adam', False)
+(7,94,3,29,0, 'other', 'None', False),
+(7,95,1,10,0, 'other', 'None', False),
+(7,96,1,10,7, 'rush', 'Howard, Elijah', False)
+(7,97,2,3,4, 'rush', 'Howard, Elijah', False)
+(7,98,1,10,6, 'rush', 'Howard, Elijah', False)
+(7,99,2,4,18, 'pass', 'Olson, Brady', False)
+(7,100,1,10,6, 'pass', 'Olson, Brady', False)
+(7,101,2,4,0, 'pass', 'Olson, Brady', False)
+(7,102,3,4,16, 'pass', 'Olson, Brady', True)
+(7,103,1,10,0, 'extra point', 'Barnum, Jack', True)
+(7,104,1,10,62, 'kickoff', 'Barnum, Jack', False)
+(7,105,1,10,0, 'other', 'None', False),
+(7,106,1,10,0, 'rush', 'Trobel, Brian', False)
+(7,107,2,10,0, 'rush', 'Trobel, Brian', False)
+(7,108,3,10,0, 'pass', 'Urena, Adam', False)
+(7,109,4,10,48, 'punt', 'Pittman, Hunter', False)
+(7,110,1,10,0, 'other', 'None', False),
+(7,111,1,10,0, 'pass', 'Olson, Brady', False)
+(7,112,2,10,4, 'rush', 'Howard, Elijah', False)
+(7,113,3,6,4, 'other', 'Olson, Brady', False)
+(7,114,4,10,44, 'punt', 'Clark, Aidan', False)
+(7,115,1,10,0, 'other', 'None', False),
+(7,116,1,10,12, 'pass', 'Urena, Adam', False)
+(7,117,1,10,0, 'pass', 'Urena, Adam', False)
+(7,118,2,10,1, 'rush', 'Trobel, Brian', False)
+(7,119,3,9,-1, 'pass', 'Urena, Adam', False)
+(7,120,4,10,21, 'punt', 'Pittman, Hunter', False)
+(7,121,1,10,0, 'other', 'None', False),
+(7,122,1,10,3, 'rush', 'Howard, Elijah', False)
+(7,123,2,7,39, 'pass', 'Olson, Brady', True)
+(7,124,1,10,0, 'extra point', 'Barnum, Jack', True)
+(7,125,1,10,65, 'kickoff', 'Barnum, Jack', False)
+(7,126,1,10,0, 'other', 'None', False),
+(7,127,1,10,4, 'other', 'Urena, Adam', False)
+(7,128,1,10,4, 'rush', 'Rodriguez, Ayron', False)
+(7,129,1,10,0, 'pass', 'Urena, Adam', False)
+(7,130,2,10,-5, 'rush', 'Rodriguez, Ayron', False)
+(7,131,3,15,15, 'pass', 'Urena, Adam', False)
+(7,132,1,10,2, 'rush', 'Rodriguez, Ayron', False)
+(7,133,2,8,15, 'pass', 'Urena, Adam', False)
+(7,134,1,10,-1, 'rush', 'Rodriguez, Ayron', False)
+(7,135,2,11,0, 'pass', 'Urena, Adam', False)
+(7,136,3,11,4, 'pass', 'Urena, Adam', False)
+(7,137,4,7,15, 'pass', 'Urena, Adam', False)
+(7,138,1,10,-4, 'rush', 'Davis, Chaz', False)
+(7,139,2,14,15, 'pass', 'Urena, Adam', False)
+(7,140,1,3,3, 'rush', 'Trobel, Brian', True)
+(7,141,1,10,2, 'other', 'None', False),
+(7,142,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(7,143,1,10,44, 'kickoff', 'Kline, Kaedon', False)
+(7,144,1,10,0, 'other', 'None', False),
+(7,145,1,10,6, 'rush', 'Howard, Elijah', False)
+(7,146,2,4,0, 'other', 'None', False),
+(7,147,2,4,9, 'rush', 'Howard, Elijah', False)
+(7,148,1,10,5, 'pass', 'Olson, Brady', False)
+(7,149,2,5,5, 'pass', 'Olson, Brady', False)
+(7,150,1,10,3, 'rush', 'Howard, Elijah', False)
+(7,151,2,7,1, 'rush', 'Howard, Elijah', False)
+(7,152,3,6,0, 'pass', 'Olson, Brady', False)
+(7,153,4,6,38, 'punt', 'Clark, Aidan', False)
+(7,154,1,10,0, 'other', 'None', False),
+(7,155,1,10,22, 'pass', 'Urena, Adam', False)
+(7,156,1,10,15, 'pass', 'Urena, Adam', False)
+(7,157,1,10,0, 'pass', 'Urena, Adam', False)
+(7,158,2,10,29, 'pass', 'Urena, Adam', False)
+(7,159,1,10,14, 'rush', 'Trobel, Brian', True)
+(7,160,1,10,2, 'other', 'None', False),
+(7,161,1,10,25, 'rush', 'Trobel, Brian', True)
+(7,162,1,10,0, 'extra point', 'Nagucki, Nathan', False)
+(7,163,1,10,28, 'kickoff', 'Kline, Kaedon', False)
+(7,164,1,10,0, 'other', 'None', False),
+(7,165,1,10,8, 'rush', 'Howard, Elijah', False)
+(7,166,2,2,-1, 'rush', 'Howard, Elijah', False)
+(7,167,3,3,0, 'pass', 'Olson, Brady', False)
+(7,168,4,3,43, 'punt', 'Clark, Aidan', False)
+(7,169,1,10,0, 'other', 'None', False),
+(7,170,1,10,0, 'pass', 'Urena, Adam', False)
+(7,171,2,10,20, 'pass', 'Urena, Adam', False)
+(7,172,1,10,1, 'pass', 'Urena, Adam', False)
+(7,173,1,10,0, 'other', 'None', False),
+(7,174,1,10,0, 'rush', 'Olson, Brady', False)
+(7,175,2,10,-1, 'rush', 'Howard, Elijah', False)
+(7,176,1,10,0, 'other', 'None', False),
+(7,177,1,10,19, 'pass', 'Urena, Adam', False)
+(7,178,1,10,5, 'pass', 'Urena, Adam', False)
+(7,179,2,5,0, 'pass', 'Urena, Adam', False)
+(7,180,3,5,0, 'pass', 'Urena, Adam', False)
+(7,181,4,5,0, 'pass', 'Urena, Adam', False)
+(7,182,1,10,0, 'other', 'None', False),
+(7,183,1,10,8, 'other', 'None', False),
+(7,184,1,18,2, 'rush', 'Ortega, Ricky', False)
+(7,185,2,16,5, 'other', 'None', False),
+(7,186,2,21,5, 'rush', 'Howard, Elijah', False)
+(7,187,3,16,8, 'rush', 'Howard, Elijah', False)
+(7,188,4,8,4, 'rush', 'Howard, Elijah', False)
+(7,189,1,10,4, 'rush', 'Turner, Jadon', False)
+(7,190,2,6,5, 'other', 'None', False),
+(7,191,2,1,4, 'rush', 'Turner, Jadon', False)
+(7,192,1,10,0, 'other', 'None', False),
+(7,193,1,10,6, 'rush', 'Turner, Jadon', False)
+(7,194,2,4,0, 'other', 'None', False),
+(7,195,2,4,59, 'rush', 'Turner, Jadon', True)
+(7,196,1,10,0, 'extra point', 'Barnum, Jack', True)
+(7,197,1,10,28, 'kickoff', 'Barnum, Jack', False)
+(7,198,1,10,0, 'other', 'None', False),
+(7,199,1,10,10, 'other', 'Urena, Adam', False)
+(7,200,2,20,9, 'pass', 'Urena, Adam', False)
+(7,201,3,11,0, 'pass', 'Urena, Adam', False)
+(7,202,4,11,0, 'pass', 'Urena, Adam', False)
+(7,203,1,10,0, 'other', 'None', False),
+(7,204,1,10,0, 'rush', 'None', False),
+(7,205,2,11,0, 'other', 'None', False),
+(8,1,1,10,0, 'other', 'None', False),
+(8,2,1,10,4, 'rush', 'Trobel, Brian', False)
+(8,3,2,6,0, 'pass', 'Urena, Adam', False)
+(8,4,3,6,0, 'pass', 'Urena, Adam', False)
+(8,5,4,6,27, 'punt', 'Pittman, Hunter', False)
+(8,6,1,10,0, 'other', 'None', False),
+(8,7,1,10,5, 'pass', 'Michalski, John', False)
+(8,8,2,5,15, 'pass', 'Michalski, John', False)
+(8,9,1,10,7, 'rush', 'Michalski, John', False)
+(8,10,2,3,10, 'rush', 'Madison, Jalen', False)
+(8,11,1,9,2, 'rush', 'Michalski, John', False)
+(8,12,2,7,7, 'pass', 'Michalski, John', True)
+(8,13,1,10,0, 'extra point', 'Kling, Matt', True)
+(8,14,1,10,0, 'other', 'None', False),
+(8,15,1,10,65, 'kickoff', 'Kling, Matt', False)
+(8,16,1,10,0, 'other', 'None', False),
+(8,17,1,10,6, 'rush', 'Trobel, Brian', False)
+(8,18,2,4,7, 'rush', 'Trobel, Brian', False)
+(8,19,1,10,1, 'rush', 'Trobel, Brian', False)
+(8,20,2,9,0, 'rush', 'Urena, Adam', False)
+(8,21,3,9,12, 'pass', 'Urena, Adam', False)
+(8,22,1,10,2, 'rush', 'Trobel, Brian', False)
+(8,23,2,8,12, 'pass', 'Urena, Adam', False)
+(8,24,1,10,6, 'rush', 'Rodriguez, Ayron', False)
+(8,25,2,4,13, 'pass', 'Urena, Adam', False)
+(8,26,1,10,16, 'rush', 'Rodriguez, Ayron', False)
+(8,27,1,10,0, 'other', 'None', False),
+(8,28,1,10,2, 'rush', 'Leigh, Xavier', False)
+(8,29,2,8,4, 'rush', 'Leigh, Xavier', False)
+(8,30,3,4,0, 'pass', 'Michalski, John', False)
+(8,31,4,4,38, 'punt', 'VonJess, Mason', False)
+(8,32,1,10,0, 'other', 'None', False),
+(8,33,2,4,0, 'other', 'None', False),
+(8,34,1,10,6, 'pass', 'Urena, Adam', False)
+(8,35,2,4,-3, 'rush', 'Davis, Chaz', False)
+(8,36,3,7,8, 'other', 'Urena, Adam', False)
+(8,37,4,15,38, 'punt', 'Pittman, Hunter', False)
+(8,38,1,10,0, 'other', 'None', False),
+(8,39,1,10,0, 'rush', 'Michalski, John', False)
+(8,40,2,10,48, 'pass', 'Michalski, John', False)
+(8,41,1,10,11, 'rush', 'Michalski, John', False)
+(8,42,1,10,0, 'other', 'None', False),
+(8,43,1,10,-1, 'rush', 'Michalski, John', False)
+(8,44,2,11,11, 'rush', 'Madison, Jalen', True)
+(8,45,1,10,0, 'other', 'None', False),
+(8,46,1,10,0, 'extra point', 'Kling, Matt', True)
+(8,47,1,10,0, 'other', 'None', False),
+(8,48,1,10,58, 'kickoff', 'Kling, Matt', False)
+(8,49,1,10,0, 'other', 'None', False),
+(8,50,1,10,3, 'rush', 'Trobel, Brian', False)
+(8,51,2,7,9, 'pass', 'Urena, Adam', False)
+(8,52,1,10,3, 'rush', 'Trobel, Brian', False)
+(8,53,2,7,0, 'rush', 'Trobel, Brian', False)
+(8,54,3,7,4, 'pass', 'Urena, Adam', False)
+(8,55,4,3,44, 'punt', 'Pittman, Hunter', False)
+(8,56,1,10,0, 'other', 'None', False),
+(8,57,1,10,-2, 'rush', 'Michalski, John', False)
+(8,58,1,10,0, 'other', 'None', False),
+(8,59,1,10,-3, 'rush', 'Urena, Adam', False)
+(8,60,2,13,0, 'pass', 'Urena, Adam', False)
+(8,61,3,13,9, 'rush', 'Trobel, Brian', False)
+(8,62,4,4,0, 'pass', 'Urena, Adam', False)
+(8,63,1,10,0, 'other', 'None', False),
+(8,64,2,7,0, 'other', 'None', False),
+(8,65,1,10,3, 'rush', 'Leigh, Xavier', False)
+(8,66,2,7,5, 'pass', 'Michalski, John', False)
+(8,67,3,2,7, 'rush', 'Leigh, Xavier', False)
+(8,68,1,10,37, 'pass', 'Michalski, John', False)
+(8,69,1,10,0, 'rush', 'Ford, Elijah', False)
+(8,70,2,10,8, 'rush', 'Michalski, John', False)
+(8,71,3,2,0, 'other', 'None', False),
+(8,72,3,2,22, 'rush', 'Leigh, Xavier', True)
+(8,73,1,10,0, 'extra point', 'Kling, Matt', True)
+(8,74,1,10,0, 'other', 'None', False),
+(8,75,1,10,44, 'kickoff', 'Kling, Matt', False)
+(8,76,1,10,0, 'other', 'None', False),
+(8,77,1,10,0, 'other', 'None', False),
+(8,78,1,10,14, 'pass', 'Urena, Adam', False)
+(8,79,1,10,0, 'pass', 'Urena, Adam', False)
+(8,80,2,10,5, 'rush', 'Rodriguez, Ayron', False)
+(8,81,1,10,-1, 'rush', 'Rodriguez, Ayron', False)
+(8,82,2,11,9, 'rush', 'Urena, Adam', False)
+(8,83,3,2,1, 'rush', 'Black, Braydon', False)
+(8,84,4,1,0, 'other', 'None', False),
+(8,85,4,1,5, 'rush', 'Trobel, Brian', False)
+(8,86,1,10,0, 'other', 'None', False),
+(8,87,1,10,0, 'rush', 'Rodriguez, Ayron', False)
+(8,88,2,10,0, 'pass', 'Urena, Adam', False)
+(8,89,3,10,7, 'pass', 'Urena, Adam', False)
+(8,90,4,3,9, 'pass', 'Urena, Adam', True)
+(8,91,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(8,92,1,10,65, 'kickoff', 'Kline, Kaedon', False)
+(8,93,1,10,0, 'other', 'None', False),
+(8,94,1,10,12, 'rush', 'Madison, Jalen', False)
+(8,95,1,10,1, 'rush', 'Madison, Jalen', False)
+(8,96,2,9,0, 'other', 'None', False),
+(8,97,1,10,0, 'other', 'None', False),
+(8,98,1,10,4, 'rush', 'Madison, Jalen', False)
+(8,99,2,6,2, 'pass', 'Michalski, John', False)
+(8,100,3,4,0, 'pass', 'Michalski, John', False)
+(8,101,4,4,28, 'punt', 'VonJess, Mason', False)
+(8,102,1,10,0, 'other', 'None', False),
+(8,103,1,10,2, 'rush', 'Trobel, Brian', False)
+(8,104,2,8,4, 'pass', 'Urena, Adam', False)
+(8,105,3,4,5, 'rush', 'Trobel, Brian', False)
+(8,106,1,10,1, 'rush', 'Trobel, Brian', False)
+(8,107,2,9,6, 'pass', 'Urena, Adam', False)
+(8,108,3,3,39, 'rush', 'Trobel, Brian', False)
+(8,109,1,10,0, 'rush', 'Davis, Chaz', False)
+(8,110,2,10,33, 'pass', 'Urena, Adam', True)
+(8,111,2,10,7, 'pass', 'Urena, Adam', False)
+(8,112,3,3,-5, 'rush', 'Trobel, Brian', False)
+(8,113,4,8,0, 'pass', 'Urena, Adam', False)
+(8,114,1,10,0, 'other', 'None', False),
+(8,115,1,10,5, 'pass', 'Michalski, John', False)
+(8,116,2,5,11, 'rush', 'Madison, Jalen', False)
+(8,117,1,10,10, 'pass', 'Michalski, John', False)
+(8,118,1,10,0, 'pass', 'Michalski, John', False)
+(8,119,2,10,16, 'rush', 'Madison, Jalen', False)
+(8,120,1,10,11, 'rush', 'Michalski, John', False)
+(8,121,1,10,5, 'rush', 'Madison, Jalen', False)
+(8,122,2,5,8, 'rush', 'Michalski, John', False)
+(8,123,1,3,-1, 'rush', 'Madison, Jalen', False)
+(8,124,2,4,4, 'rush', 'Michalski, John', True)
+(8,125,1,10,0, 'extra point', 'Kling, Matt', True)
+(8,126,1,10,0, 'other', 'None', False),
+(8,127,1,10,56, 'kickoff', 'Kling, Matt', False)
+(8,128,1,10,0, 'other', 'None', False),
+(8,129,1,10,4, 'rush', 'Askew, Jordan', False)
+(8,130,2,6,9, 'pass', 'Urena, Adam', False)
+(8,131,1,10,0, 'pass', 'Urena, Adam', False)
+(8,132,2,10,2, 'rush', 'Askew, Jordan', False)
+(8,133,3,8,0, 'other', 'None', False),
+(8,134,3,8,-1, 'rush', 'Askew, Jordan', False)
+(8,135,4,9,5, 'other', 'None', False),
+(8,136,4,14,37, 'punt', 'Pittman, Hunter', False)
+(8,137,1,10,0, 'other', 'None', False),
+(8,138,1,10,0, 'pass', 'Michalski, John', False)
+(8,139,2,10,2, 'rush', 'Leigh, Xavier', False)
+(8,140,3,8,7, 'pass', 'Michalski, John', False)
+(8,141,4,1,39, 'punt', 'VonJess, Mason', False)
+(8,142,1,10,0, 'other', 'None', False),
+(8,143,2,10,0, 'other', 'None', False),
+(8,144,1,10,0, 'pass', 'Urena, Adam', False)
+(8,145,2,10,2, 'pass', 'Urena, Adam', False)
+(8,146,3,8,7, 'pass', 'Urena, Adam', False)
+(8,147,4,1,1, 'rush', 'Trobel, Brian', False)
+(8,148,1,10,4, 'pass', 'Urena, Adam', False)
+(8,149,2,6,0, 'pass', 'Urena, Adam', False)
+(8,150,3,6,19, 'pass', 'Urena, Adam', False)
+(8,151,1,10,0, 'pass', 'Urena, Adam', False)
+(8,152,2,10,0, 'pass', 'Urena, Adam', False)
+(8,153,3,10,7, 'rush', 'Rodriguez, Ayron', False)
+(8,154,4,3,13, 'rush', 'Trobel, Brian', False)
+(8,155,1,10,10, 'pass', 'Urena, Adam', False)
+(8,156,1,10,10, 'pass', 'Urena, Adam', True)
+(8,157,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(8,158,1,10,0, 'other', 'None', False),
+(8,159,1,10,59, 'kickoff', 'Kline, Kaedon', False)
+(8,160,1,10,0, 'other', 'None', False),
+(8,161,1,10,0, 'other', 'None', False),
+(8,162,1,10,-2, 'rush', 'Madison, Jalen', False)
+(8,163,2,12,15, 'pass', 'Michalski, John', False)
+(8,164,1,10,20, 'rush', 'Madison, Jalen', False)
+(8,165,1,10,36, 'rush', 'Madison, Jalen', False)
+(8,166,1,10,2, 'rush', 'Madison, Jalen', False)
+(8,167,2,8,1, 'rush', 'Madison, Jalen', False)
+(8,168,2,23,7, 'rush', 'Madison, Jalen', False)
+(8,169,3,16,8, 'rush', 'Michalski, John', False)
+(8,170,4,8,0, 'other', 'None', False),
+(8,171,4,8,36, 'field goal', 'Kling, Matt', True)
+(8,172,1,10,0, 'other', 'None', False),
+(8,173,1,10,65, 'kickoff', 'Kling, Matt', False)
+(8,174,1,10,0, 'other', 'None', False),
+(8,175,1,10,10, 'pass', 'Urena, Adam', False)
+(8,176,1,10,15, 'pass', 'Urena, Adam', False)
+(8,177,1,10,6, 'pass', 'Urena, Adam', False)
+(8,178,2,4,0, 'other', 'None', False),
+(8,179,2,4,2, 'pass', 'Urena, Adam', False)
+(8,180,1,10,0, 'pass', 'Urena, Adam', False)
+(8,181,2,10,6, 'other', 'Urena, Adam', False)
+(8,182,1,10,0, 'other', 'None', False),
+(8,183,1,10,0, 'rush', 'Michalski, John', False)
+(8,184,2,12,0, 'other', 'None', False),
+(8,185,2,12,-1, 'rush', 'Madison, Jalen', False)
+(8,186,3,13,0, 'other', 'None', False),
+(8,187,3,13,5, 'rush', 'Madison, Jalen', False)
+(8,188,4,8,0, 'other', 'None', False),
+(8,189,4,8,-3, 'rush', 'Michalski, John', False)
+(8,190,1,10,0, 'other', 'None', False),
+(8,191,1,10,21, 'pass', 'Urena, Adam', False)
+(8,192,1,10,1, 'rush', 'Urena, Adam', False)
+(8,193,2,9,0, 'pass', 'Urena, Adam', False)
+(8,194,3,9,12, 'pass', 'Urena, Adam', False)
+(8,195,1,10,0, 'pass', 'Urena, Adam', False)
+(8,196,2,10,0, 'pass', 'Urena, Adam', False)
+(8,197,3,10,0, 'pass', 'Urena, Adam', False)
+(8,198,4,10,14, 'pass', 'Urena, Adam', False)
+(8,199,1,10,0, 'pass', 'Urena, Adam', False)
+(8,200,2,10,0, 'pass', 'Urena, Adam', False)
+(8,201,3,10,0, 'other', 'None', False),
+(9,1,1,10,0, 'other', 'None', False),
+(9,2,1,10,10, 'pass', 'Urena, Adam', False)
+(9,3,1,10,4, 'pass', 'Urena, Adam', False)
+(9,4,2,6,0, 'pass', 'Urena, Adam', False)
+(9,5,3,6,16, 'pass', 'Urena, Adam', False)
+(9,6,1,10,1, 'rush', 'Rodriguez, Ayron', False)
+(9,7,2,9,18, 'pass', 'Urena, Adam', False)
+(9,8,1,10,10, 'pass', 'Urena, Adam', False)
+(9,9,1,10,0, 'pass', 'Urena, Adam', False)
+(9,10,2,10,5, 'rush', 'Davison, Rylan', False)
+(9,11,3,5,5, 'pass', 'Urena, Adam', True)
+(9,12,1,10,0, 'other', 'None', False),
+(9,13,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(9,14,1,10,55, 'kickoff', 'Kline, Kaedon', False)
+(9,15,1,10,0, 'other', 'None', False),
+(9,16,1,10,3, 'rush', 'Clements, JaMario', False)
+(9,17,2,7,0, 'pass', 'Perrantes, Darius', False)
+(9,18,3,7,0, 'pass', 'Perrantes, Darius', False)
+(9,19,4,7,54, 'punt', 'Romenick, Kyle', False)
+(9,20,1,10,0, 'other', 'None', False),
+(9,21,1,10,0, 'pass', 'Urena, Adam', False)
+(9,22,2,10,6, 'rush', 'Rodriguez, Ayron', False)
+(9,23,3,4,8, 'other', 'Urena, Adam', False)
+(9,24,4,12,42, 'punt', 'Pittman, Hunter', False)
+(9,25,1,10,0, 'other', 'None', False),
+(9,26,1,10,5, 'rush', 'Clements, JaMario', False)
+(9,27,1,10,15, 'pass', 'Perrantes, Darius', False)
+(9,28,1,10,4, 'rush', 'Clements, JaMario', False)
+(9,29,2,6,12, 'rush', 'Clements, JaMario', False)
+(9,30,1,10,0, 'pass', 'Perrantes, Darius', False)
+(9,31,2,10,0, 'pass', 'Perrantes, Darius', False)
+(9,32,3,10,5, 'pass', 'Perrantes, Darius', False)
+(9,33,4,5,5, 'pass', 'Perrantes, Darius', False)
+(9,34,1,10,6, 'rush', 'Butts, Taj', False)
+(9,35,2,4,2, 'rush', 'Butts, Taj', False)
+(9,36,3,2,-1, 'rush', 'Butts, Taj', False)
+(9,37,4,3,32, 'field goal', 'Bruzdewicz, Brian', True)
+(9,38,1,10,0, 'other', 'None', False),
+(9,39,1,10,4, 'pass', 'Urena, Adam', False)
+(9,40,2,6,0, 'pass', 'Urena, Adam', False)
+(9,41,3,6,5, 'pass', 'Urena, Adam', False)
+(9,42,4,1,0, 'rush', 'Askew, Jordan', False)
+(9,43,1,10,0, 'other', 'None', False),
+(9,44,1,10,9, 'rush', 'Butts, Taj', False)
+(9,45,2,1,5, 'rush', 'Butts, Taj', False)
+(9,46,1,10,0, 'other', 'None', False),
+(9,47,1,10,6, 'rush', 'Butts, Taj', False)
+(9,48,2,4,7, 'pass', 'Perrantes, Darius', False)
+(9,49,1,2,1, 'rush', 'Butts, Taj', False)
+(9,50,2,1,-3, 'rush', 'Butts, Taj', False)
+(9,51,1,10,0, 'other', 'None', False),
+(9,52,1,10,7, 'rush', 'Rodriguez, Ayron', False)
+(9,53,2,3,0, 'other', 'None', False),
+(9,54,2,3,6, 'pass', 'Urena, Adam', False)
+(9,55,1,10,9, 'other', 'Urena, Adam', False)
+(9,56,2,19,3, 'rush', 'Rodriguez, Ayron', False)
+(9,57,3,16,0, 'pass', 'Urena, Adam', False)
+(9,58,4,16,54, 'punt', 'Pittman, Hunter', False)
+(9,59,1,10,0, 'other', 'None', False),
+(9,60,1,10,13, 'pass', 'Perrantes, Darius', False)
+(9,61,1,10,0, 'pass', 'Perrantes, Darius', False)
+(9,62,2,10,8, 'pass', 'Perrantes, Darius', False)
+(9,63,3,2,4, 'rush', 'Clements, JaMario', False)
+(9,64,1,10,0, 'pass', 'Perrantes, Darius', False)
+(9,65,2,10,17, 'rush', 'Clements, JaMario', False)
+(9,66,1,10,8, 'rush', 'Clements, JaMario', False)
+(9,67,2,2,1, 'rush', 'Clements, JaMario', False)
+(9,68,3,1,5, 'pass', 'Perrantes, Darius', True)
+(9,69,1,10,0, 'extra point', 'Bruzdewicz, Brian', True)
+(9,70,1,10,59, 'kickoff', 'Smith, Andrew', False)
+(9,71,1,10,0, 'other', 'None', False),
+(9,72,1,10,6, 'pass', 'Urena, Adam', False)
+(9,73,2,4,30, 'pass', 'Urena, Adam', False)
+(9,74,1,10,12, 'rush', 'Black, Braydon', False)
+(9,75,1,10,-2, 'rush', 'Rodriguez, Ayron', False)
+(9,76,2,12,3, 'pass', 'Urena, Adam', False)
+(9,77,3,9,17, 'rush', 'Askew, Jordan', False)
+(9,78,1,10,8, 'other', 'Urena, Adam', False)
+(9,79,2,18,0, 'other', 'None', False),
+(9,80,2,18,15, 'pass', 'Urena, Adam', False)
+(9,81,3,3,7, 'pass', 'Urena, Adam', False)
+(9,82,1,1,-2, 'pass', 'Urena, Adam', False)
+(9,83,2,3,0, 'other', 'None', False),
+(9,84,2,3,-1, 'rush', 'Rodriguez, Ayron', False)
+(9,85,3,4,0, 'other', 'None', False),
+(9,86,3,4,0, 'pass', 'Urena, Adam', False)
+(9,87,4,4,21, 'field goal', 'Nagucki, Nathan', True)
+(9,88,1,10,59, 'kickoff', 'Kline, Kaedon', False)
+(9,89,1,10,0, 'other', 'None', False),
+(9,90,1,10,0, 'pass', 'Perrantes, Darius', False)
+(9,91,2,10,0, 'pass', 'Perrantes, Darius', False)
+(9,92,3,10,13, 'pass', 'Perrantes, Darius', False)
+(9,93,1,10,12, 'pass', 'Perrantes, Darius', False)
+(9,94,1,10,18, 'pass', 'Perrantes, Darius', False)
+(9,95,1,10,0, 'other', 'None', False),
+(9,96,1,10,0, 'rush', 'Urena, Adam', False)
+(9,97,2,11,0, 'other', 'None', False),
+(9,98,1,10,0, 'other', 'None', False),
+(9,99,1,10,64, 'pass', 'Perrantes, Darius', True)
+(9,100,1,10,0, 'extra point', 'Bruzdewicz, Brian', True)
+(9,101,1,10,59, 'kickoff', 'Smith, Andrew', False)
+(9,102,1,10,0, 'other', 'None', False),
+(9,103,1,10,5, 'pass', 'Urena, Adam', False)
+(9,104,2,5,0, 'rush', 'Trobel, Brian', False)
+(9,105,3,5,9, 'pass', 'Urena, Adam', False)
+(9,106,1,10,11, 'rush', 'Trobel, Brian', False)
+(9,107,1,10,-2, 'pass', 'Urena, Adam', False)
+(9,108,2,12,15, 'pass', 'Urena, Adam', False)
+(9,109,1,10,6, 'pass', 'Urena, Adam', False)
+(9,110,2,4,9, 'pass', 'Urena, Adam', False)
+(9,111,1,10,0, 'pass', 'Urena, Adam', False)
+(9,112,2,10,0, 'pass', 'Urena, Adam', False)
+(9,113,3,10,5, 'pass', 'Urena, Adam', False)
+(9,114,4,5,24, 'pass', 'Urena, Adam', True)
+(9,115,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(9,116,1,10,65, 'kickoff', 'Kline, Kaedon', False)
+(9,117,1,10,0, 'other', 'None', False),
+(9,118,1,10,6, 'rush', 'Clements, JaMario', False)
+(9,119,2,4,3, 'pass', 'Perrantes, Darius', False)
+(9,120,3,1,4, 'rush', 'Clements, JaMario', False)
+(9,121,1,10,47, 'pass', 'Perrantes, Darius', False)
+(9,122,1,10,-1, 'rush', 'Clements, JaMario', False)
+(9,123,2,11,0, 'pass', 'Perrantes, Darius', False)
+(9,124,3,11,8, 'rush', 'Perrantes, Darius', False)
+(9,125,4,3,5, 'other', 'None', False),
+(9,126,4,8,31, 'field goal', 'Bruzdewicz, Brian', True)
+(9,127,1,10,60, 'kickoff', 'Smith, Andrew', False)
+(9,128,1,10,0, 'other', 'None', False),
+(9,129,1,10,5, 'pass', 'Urena, Adam', False)
+(9,130,2,5,8, 'pass', 'Urena, Adam', False)
+(9,131,1,10,4, 'rush', 'Askew, Jordan', False)
+(9,132,1,10,0, 'pass', 'Urena, Adam', False)
+(9,133,2,10,4, 'pass', 'Urena, Adam', False)
+(9,134,3,6,10, 'pass', 'Urena, Adam', False)
+(9,135,1,10,5, 'pass', 'Urena, Adam', False)
+(9,136,2,5,6, 'rush', 'Askew, Jordan', False)
+(9,137,1,10,0, 'pass', 'Urena, Adam', False)
+(9,138,2,10,1, 'rush', 'Trobel, Brian', False)
+(9,139,3,9,0, 'other', 'None', False),
+(9,140,3,9,7, 'other', 'Urena, Adam', False)
+(9,141,4,16,5, 'other', 'None', False),
+(9,142,4,21,48, 'punt', 'Pittman, Hunter', False)
+(9,143,1,10,0, 'other', 'None', False),
+(9,144,1,10,0, 'pass', 'Perrantes, Darius', False)
+(9,145,2,10,6, 'rush', 'Butts, Taj', False)
+(9,146,3,4,0, 'pass', 'Perrantes, Darius', False)
+(9,147,4,4,45, 'punt', 'Romenick, Kyle', False)
+(9,148,1,10,0, 'other', 'None', False),
+(9,149,1,10,4, 'rush', 'Rodriguez, Ayron', False)
+(9,150,2,6,-1, 'pass', 'Urena, Adam', False)
+(9,151,3,7,0, 'pass', 'Urena, Adam', False)
+(9,152,4,7,42, 'punt', 'Pittman, Hunter', False)
+(9,153,1,10,0, 'other', 'None', False),
+(9,154,1,10,13, 'rush', 'Clements, JaMario', False)
+(9,155,1,10,15, 'pass', 'Perrantes, Darius', False)
+(9,156,1,10,42, 'pass', 'Perrantes, Darius', False)
+(9,157,1,8,8, 'rush', 'Clements, JaMario', True)
+(9,158,1,10,0, 'extra point', 'Bruzdewicz, Brian', True)
+(9,159,1,10,65, 'kickoff', 'Smith, Andrew', False)
+(9,160,1,10,0, 'other', 'None', False),
+(9,161,1,10,26, 'pass', 'Urena, Adam', False)
+(9,162,1,10,5, 'rush', 'Rodriguez, Ayron', False)
+(9,163,2,5,6, 'pass', 'Urena, Adam', False)
+(9,164,1,10,1, 'rush', 'Rodriguez, Ayron', False)
+(9,165,2,9,6, 'pass', 'Urena, Adam', False)
+(9,166,3,3,10, 'pass', 'Urena, Adam', False)
+(9,167,1,10,3, 'pass', 'Urena, Adam', False)
+(9,168,2,7,19, 'pass', 'Urena, Adam', False)
+(9,169,2,7,0, 'other', 'None', False),
+(9,170,1,10,0, 'other', 'None', False),
+(9,171,1,10,7, 'rush', 'Clements, JaMario', False)
+(9,172,2,3,86, 'rush', 'Clements, JaMario', True)
+(9,173,1,10,0, 'extra point', 'Bruzdewicz, Brian', True)
+(9,174,1,10,65, 'kickoff', 'Smith, Andrew', False)
+(9,175,1,10,0, 'other', 'None', False),
+(9,176,1,10,0, 'pass', 'Urena, Adam', False)
+(9,177,2,10,7, 'pass', 'Urena, Adam', False)
+(9,178,3,3,13, 'pass', 'Urena, Adam', False)
+(9,179,3,16,5, 'other', 'None', False),
+(9,180,3,11,18, 'pass', 'Urena, Adam', False)
+(9,181,1,10,5, 'rush', 'Urena, Adam', False)
+(9,182,2,5,15, 'pass', 'Urena, Adam', False)
+(9,183,1,10,4, 'rush', 'Urena, Adam', False)
+(9,184,2,6,0, 'pass', 'Urena, Adam', False)
+(9,185,3,6,0, 'other', 'None', False),
+(9,186,3,6,10, 'pass', 'Urena, Adam', False)
+(9,187,1,10,20, 'pass', 'Urena, Adam', False)
+(9,188,1,10,10, 'pass', 'Urena, Adam', True)
+(9,189,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(9,190,1,10,13, 'kickoff', 'Kline, Kaedon', False)
+(9,191,1,10,0, 'other', 'None', False),
+(9,192,1,10,8, 'rush', 'Butts, Taj', False)
+(9,193,2,2,0, 'other', 'None', False),
+(9,194,2,2,3, 'rush', 'Butts, Taj', False)
+(9,195,1,10,0, 'other', 'None', False),
+(9,196,1,10,0, 'rush', 'Perrantes, Darius', False)
+(9,197,2,14,0, 'other', 'None', False),
+(9,198,2,14,0, 'rush', 'Perrantes, Darius', False)
+(9,199,3,17,0, 'rush', 'Perrantes, Darius', False)
+(9,200,4,20,0, 'other', 'None', False),
+(10,1,1,10,0, 'other', 'None', False),
+(10,2,1,10,9, 'rush', 'Trobel, Brian', False)
+(10,3,2,1,5, 'pass', 'Urena, Adam', False)
+(10,4,1,10,13, 'rush', 'Trobel, Brian', False)
+(10,5,1,10,5, 'rush', 'Trobel, Brian', False)
+(10,6,2,5,28, 'pass', 'Urena, Adam', True)
+(10,7,1,10,2, 'other', 'None', False),
+(10,8,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(10,9,1,10,15, 'other', 'None', False),
+(10,10,1,10,60, 'kickoff', 'Kline, Kaedon', False)
+(10,11,1,10,0, 'other', 'None', False),
+(10,12,1,10,11, 'pass', 'Clavel, Jack', False)
+(10,13,1,10,3, 'rush', 'Woodland, Rashaan', False)
+(10,14,2,7,0, 'pass', 'Clavel, Jack', False)
+(10,15,1,10,0, 'other', 'None', False),
+(10,16,1,10,9, 'pass', 'Urena, Adam', False)
+(10,17,2,1,-4, 'rush', 'Trobel, Brian', False)
+(10,18,3,5,2, 'rush', 'Trobel, Brian', False)
+(10,19,4,3,3, 'rush', 'Trobel, Brian', False)
+(10,20,1,10,0, 'pass', 'Urena, Adam', False)
+(10,21,2,10,20, 'punt', 'Pittman, Hunter', False)
+(10,22,1,10,0, 'other', 'None', False),
+(10,23,1,10,4, 'rush', 'Woodland, Rashaan', False)
+(10,24,2,6,3, 'rush', 'Woodland, Rashaan', False)
+(10,25,3,3,0, 'pass', 'Clavel, Jack', False)
+(10,26,4,3,29, 'punt', 'Meister, Owen', False)
+(10,27,1,10,0, 'other', 'None', False),
+(10,28,1,10,7, 'rush', 'Rodriguez, Ayron', False)
+(10,29,2,3,9, 'rush', 'Rodriguez, Ayron', False)
+(10,30,1,10,5, 'rush', 'Trobel, Brian', False)
+(10,31,2,5,6, 'rush', 'Trobel, Brian', False)
+(10,32,1,10,21, 'pass', 'Urena, Adam', False)
+(10,33,1,10,10, 'pass', 'Urena, Adam', False)
+(10,34,1,2,-2, 'rush', 'Rodriguez, Ayron', False)
+(10,35,2,4,1, 'rush', 'Rodriguez, Ayron', False)
+(10,36,3,3,3, 'pass', 'Urena, Adam', True)
+(10,37,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(10,38,1,10,60, 'kickoff', 'Kline, Kaedon', False)
+(10,39,1,10,0, 'other', 'None', False),
+(10,40,1,10,0, 'other', 'None', False),
+(10,41,1,10,3, 'rush', 'McCray, Jaylin', False)
+(10,42,2,7,5, 'other', 'Clavel, Jack', False)
+(10,43,3,12,0, 'other', 'None', False),
+(10,44,3,12,7, 'other', 'Clavel, Jack', False)
+(10,45,4,19,0, 'other', 'None', False),
+(10,46,4,19,23, 'punt', 'Meister, Owen', False)
+(10,47,1,10,0, 'other', 'None', False),
+(10,48,1,10,14, 'pass', 'Urena, Adam', False)
+(10,49,1,10,0, 'pass', 'Urena, Adam', False)
+(10,50,2,10,2, 'rush', 'Kerbacher, Joe', False)
+(10,51,3,18,2, 'rush', 'Rodriguez, Ayron', False)
+(10,52,4,16,26, 'field goal', 'Nagucki, Nathan', True)
+(10,53,1,10,60, 'kickoff', 'Kline, Kaedon', False)
+(10,54,1,10,0, 'other', 'None', False),
+(10,55,1,10,0, 'rush', 'McCray, Jaylin', False)
+(10,56,2,10,8, 'rush', 'Clavel, Jack', False)
+(10,57,2,15,13, 'pass', 'Clavel, Jack', False)
+(10,58,3,2,1, 'rush', 'Woodland, Rashaan', False)
+(10,59,4,1,0, 'other', 'None', False),
+(10,60,4,1,0, 'rush', 'Woodland, Rashaan', False)
+(10,61,1,10,0, 'other', 'None', False),
+(10,62,1,10,21, 'pass', 'Urena, Adam', True)
+(10,63,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(10,64,1,10,57, 'kickoff', 'Kline, Kaedon', False)
+(10,65,1,10,0, 'other', 'None', False),
+(10,66,1,10,0, 'pass', 'Clavel, Jack', False)
+(10,67,2,10,0, 'pass', 'Clavel, Jack', False)
+(10,68,3,10,0, 'pass', 'Clavel, Jack', False)
+(10,69,4,10,0, 'punt', 'Meister, Owen', True)
+(10,70,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(10,71,1,10,15, 'other', 'None', False),
+(10,72,1,10,47, 'kickoff', 'Kline, Kaedon', False)
+(10,73,1,10,0, 'other', 'None', False),
+(10,74,1,10,3, 'rush', 'Woodland, Rashaan', False)
+(10,75,2,7,9, 'pass', 'Clavel, Jack', False)
+(10,76,1,10,0, 'other', 'None', False),
+(10,77,1,10,0, 'pass', 'Clavel, Jack', False)
+(10,78,2,10,25, 'pass', 'Clavel, Jack', False)
+(10,79,1,10,0, 'pass', 'Clavel, Jack', False)
+(10,80,2,10,0, 'pass', 'Clavel, Jack', False)
+(10,81,1,10,0, 'other', 'None', False),
+(10,82,1,10,61, 'pass', 'Urena, Adam', True)
+(10,83,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(10,84,1,10,64, 'kickoff', 'Kline, Kaedon', False)
+(10,85,1,10,0, 'other', 'None', False),
+(10,86,1,10,0, 'pass', 'Clavel, Jack', False)
+(10,87,1,10,0, 'other', 'None', False),
+(10,88,1,10,4, 'pass', 'Urena, Adam', False)
+(10,89,2,6,6, 'rush', 'Trobel, Brian', False)
+(10,90,1,10,12, 'rush', 'Trobel, Brian', False)
+(10,91,1,10,1, 'rush', 'Urena, Adam', False)
+(10,92,2,9,2, 'rush', 'Askew, Jordan', False)
+(10,93,3,7,12, 'rush', 'Askew, Jordan', False)
+(10,94,1,8,8, 'pass', 'Urena, Adam', True)
+(10,95,1,10,0, 'rush', 'King, Jonas', True)
+(10,96,1,10,64, 'kickoff', 'Kline, Kaedon', False)
+(10,97,1,10,0, 'other', 'None', False),
+(10,98,1,10,5, 'rush', 'McCray, Jaylin', False)
+(10,99,2,5,0, 'other', 'None', False),
+(10,100,1,10,0, 'other', 'None', False),
+(10,101,1,10,5, 'rush', 'McCray, Jaylin', False)
+(10,102,2,5,34, 'pass', 'Clavel, Jack', False)
+(10,103,1,10,7, 'rush', 'Woodland, Rashaan', False)
+(10,104,2,3,13, 'pass', 'Clavel, Jack', False)
+(10,105,1,10,-2, 'rush', 'Woodland, Rashaan', False)
+(10,106,1,10,0, 'other', 'None', False),
+(10,107,1,10,1, 'rush', 'Trobel, Brian', False)
+(10,108,2,9,0, 'rush', 'Trobel, Brian', False)
+(10,109,3,9,6, 'other', 'Urena, Adam', False)
+(10,110,4,15,32, 'punt', 'Pittman, Hunter', False)
+(10,111,1,10,0, 'other', 'None', False),
+(10,112,1,10,0, 'pass', 'Clavel, Jack', False)
+(10,113,2,10,0, 'pass', 'Clavel, Jack', False)
+(10,114,3,10,0, 'pass', 'Clavel, Jack', False)
+(10,115,4,10,40, 'punt', 'Meister, Owen', False)
+(10,116,4,5,8, 'pass', 'Clavel, Jack', False)
+(10,117,4,10,10, 'punt', 'Meister, Owen', False)
+(10,118,4,10,0, 'other', 'None', False),
+(10,119,1,10,0, 'other', 'None', False),
+(10,120,1,10,3, 'rush', 'Askew, Jordan', False)
+(10,121,2,7,3, 'pass', 'Urena, Adam', False)
+(10,122,3,4,5, 'pass', 'Urena, Adam', False)
+(10,123,1,10,9, 'pass', 'Urena, Adam', False)
+(10,124,2,1,8, 'rush', 'Askew, Jordan', False)
+(10,125,1,10,17, 'rush', 'Askew, Jordan', False)
+(10,126,1,10,-1, 'rush', 'Askew, Jordan', False)
+(10,127,2,11,0, 'pass', 'Urena, Adam', False)
+(10,128,3,11,14, 'pass', 'Urena, Adam', True)
+(10,129,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(10,130,1,10,59, 'kickoff', 'Kline, Kaedon', False)
+(10,131,1,10,0, 'other', 'None', False),
+(10,132,1,10,8, 'pass', 'Clavel, Jack', False)
+(10,133,2,2,0, 'pass', 'Clavel, Jack', False)
+(10,134,3,2,3, 'rush', 'Woodland, Rashaan', False)
+(10,135,1,10,32, 'pass', 'Clavel, Jack', False)
+(10,136,1,10,6, 'pass', 'Clavel, Jack', False)
+(10,137,2,4,0, 'other', 'None', False),
+(10,138,2,4,0, 'pass', 'Clavel, Jack', False)
+(10,139,1,10,0, 'other', 'None', False),
+(10,140,1,10,10, 'rush', 'Pappas, Mike', False)
+(10,141,1,10,1, 'rush', 'Pappas, Mike', False)
+(10,142,2,9,17, 'rush', 'Pappas, Mike', False)
+(10,143,1,10,0, 'pass', 'Gevaudan, Alex', False)
+(10,144,2,10,12, 'rush', 'Pappas, Mike', False)
+(10,145,1,10,19, 'rush', 'Askew, Jordan', False)
+(10,146,1,10,0, 'pass', 'Gevaudan, Alex', False)
+(10,147,2,10,6, 'rush', 'Pappas, Mike', False)
+(10,148,3,4,0, 'other', 'None', False),
+(10,149,3,4,0, 'pass', 'Gevaudan, Alex', False)
+(10,150,4,4,29, 'pass', 'Gevaudan, Alex', True)
+(10,151,1,10,0, 'extra point', 'Nagucki, Nathan', False)
+(10,152,1,10,59, 'kickoff', 'Kline, Kaedon', False)
+(10,153,1,10,0, 'other', 'None', False),
+(10,154,1,10,0, 'pass', 'Clavel, Jack', False)
+(10,155,2,10,0, 'pass', 'Clavel, Jack', False)
+(10,156,3,10,25, 'pass', 'Clavel, Jack', False)
+(10,157,1,10,15, 'pass', 'Clavel, Jack', False)
+(10,158,1,10,15, 'pass', 'Clavel, Jack', False)
+(10,159,1,10,0, 'pass', 'Clavel, Jack', False)
+(10,160,1,10,0, 'other', 'None', False),
+(10,161,1,10,6, 'rush', 'Knox, Ethen', False)
+(10,162,2,4,3, 'rush', 'Knox, Ethen', False)
+(10,163,3,1,8, 'rush', 'Knox, Ethen', False)
+(10,164,1,10,4, 'rush', 'Knox, Ethen', False)
+(10,165,2,6,0, 'pass', 'Kim, Austin', False)
+(10,166,3,6,5, 'other', 'None', False),
+(10,167,3,11,0, 'other', 'None', False),
+(10,168,3,11,4, 'pass', 'Kim, Austin', False)
+(10,169,4,7,41, 'punt', 'Pittman, Hunter', False)
+(10,170,1,10,0, 'other', 'None', False),
+(10,171,1,10,0, 'pass', 'Clavel, Jack', False)
+(10,172,1,10,0, 'other', 'None', False),
+(10,173,1,10,21, 'rush', 'Knox, Ethen', False)
+(10,174,1,10,5, 'rush', 'Knox, Ethen', False)
+(10,175,2,5,29, 'rush', 'Knox, Ethen', True)
+(10,176,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(10,177,1,10,60, 'kickoff', 'Kline, Kaedon', False)
+(10,178,1,10,0, 'other', 'None', False),
+(10,179,1,10,2, 'rush', 'Woodland, Rashaan', False)
+(10,180,2,8,4, 'rush', 'Woodland, Rashaan', False)
+(10,181,3,4,5, 'pass', 'Clavel, Jack', False)
+(10,182,1,10,4, 'rush', 'Woodland, Rashaan', False)
+(10,183,2,6,26, 'pass', 'Clavel, Jack', False)
+(10,184,1,10,0, 'other', 'None', False),
+(10,185,1,10,0, 'rush', 'Kim, Austin', False)
+(10,186,2,11,0, 'other', 'None', False),
+(11,1,1,10,0, 'other', 'None', False),
+(11,2,1,10,0, 'rush', 'Trobel, Brian', False)
+(11,3,2,10,12, 'pass', 'Urena, Adam', False)
+(11,4,1,10,0, 'pass', 'Urena, Adam', False)
+(11,5,2,10,-2, 'rush', 'Davison, Rylan', False)
+(11,6,3,12,0, 'pass', 'Urena, Adam', False)
+(11,7,4,12,35, 'punt', 'Pittman, Hunter', False)
+(11,8,4,7,50, 'punt', 'Pittman, Hunter', False)
+(11,9,1,10,0, 'other', 'None', False),
+(11,10,1,10,5, 'pass', 'Perryman, Jahmil', False)
+(11,11,2,5,5, 'pass', 'Ivory, Jayden', False)
+(11,12,1,10,5, 'rush', 'Mejia, Adrian', False)
+(11,13,2,5,6, 'rush', 'Holman, Markell', False)
+(11,14,1,10,0, 'rush', 'Holman, Markell', False)
+(11,15,2,10,0, 'pass', 'Holman, Markell', False)
+(11,16,3,10,10, 'pass', 'Thomson, Gavin', False)
+(11,17,1,10,1, 'rush', 'Holman, Markell', False)
+(11,18,2,9,2, 'rush', 'Perryman, Jahmil', False)
+(11,19,3,7,46, 'pass', 'Thomson, Gavin', True)
+(11,20,1,10,0, 'extra point', 'Plummer, Mac', True)
+(11,21,1,10,38, 'kickoff', 'Plummer, Mac', False)
+(11,22,1,10,0, 'other', 'None', False),
+(11,23,1,10,4, 'rush', 'Trobel, Brian', False)
+(11,24,2,6,0, 'pass', 'Urena, Adam', False)
+(11,25,3,6,7, 'pass', 'Urena, Adam', False)
+(11,26,1,10,7, 'rush', 'Davis, Earnest', False)
+(11,27,2,3,0, 'pass', 'Urena, Adam', False)
+(11,28,3,3,0, 'pass', 'Urena, Adam', False)
+(11,29,4,3,55, 'punt', 'Pittman, Hunter', False)
+(11,30,1,10,0, 'other', 'None', False),
+(11,31,1,10,5, 'rush', 'McElroy, DeMarcus', False)
+(11,32,1,20,6, 'rush', 'McElroy, DeMarcus', False)
+(11,33,2,14,7, 'rush', 'McElroy, DeMarcus', False)
+(11,34,3,7,8, 'pass', 'Thomson, Gavin', False)
+(11,35,1,10,4, 'rush', 'McElroy, DeMarcus', False)
+(11,36,2,6,2, 'rush', 'McElroy, DeMarcus', False)
+(11,37,3,4,22, 'pass', 'Ivory, Jayden', False)
+(11,38,1,10,0, 'other', 'None', False),
+(11,39,1,10,0, 'pass', 'McElroy, DeMarcus', False)
+(11,40,2,10,0, 'rush', 'Mejia, Adrian', False)
+(11,41,3,10,7, 'rush', 'None', False),
+(11,42,4,3,7, 'pass', 'Skule, Joe', False)
+(11,43,1,10,-5, 'rush', 'McElroy, DeMarcus', False)
+(11,44,2,15,0, 'rush', 'McElroy, DeMarcus', False)
+(11,45,3,15,3, 'rush', 'McElroy, DeMarcus', False)
+(11,46,4,12,39, 'field goal', 'Plummer, Mac', True)
+(11,47,1,10,65, 'kickoff', 'Plummer, Mac', False)
+(11,48,1,10,0, 'other', 'None', False),
+(11,49,1,10,4, 'rush', 'Davis, Earnest', False)
+(11,50,2,6,7, 'pass', 'Urena, Adam', False)
+(11,51,1,10,15, 'pass', 'Urena, Adam', False)
+(11,52,1,10,6, 'pass', 'Urena, Adam', False)
+(11,53,2,4,12, 'other', 'Urena, Adam', False)
+(11,54,3,16,0, 'pass', 'Urena, Adam', False)
+(11,55,4,16,44, 'punt', 'Pittman, Hunter', False)
+(11,56,1,10,0, 'other', 'None', False),
+(11,57,1,10,3, 'rush', 'Holman, Markell', False)
+(11,58,2,7,1, 'rush', 'Porter, Brayden', False)
+(11,59,3,6,14, 'pass', 'Thomson, Gavin', False)
+(11,60,1,10,7, 'pass', 'Perryman, Jahmil', False)
+(11,61,2,3,7, 'rush', 'Holman, Markell', False)
+(11,62,1,10,0, 'rush', 'Holman, Markell', False)
+(11,63,2,10,0, 'pass', 'Ivory, Jayden', False)
+(11,64,3,10,0, 'pass', 'Thompson, Justin', False)
+(11,65,4,10,37, 'punt', 'Cirulli, Aidan', False)
+(11,66,1,10,12, 'pass', 'Thomson, Gavin', False)
+(11,67,1,10,0, 'pass', 'Perryman, Jahmil', False)
+(11,68,2,10,-4, 'rush', 'McElroy, DeMarcus', False)
+(11,69,3,14,5, 'other', 'None', False),
+(11,70,3,19,10, 'pass', 'Thomson, Gavin', False)
+(11,71,4,9,0, 'other', 'None', False),
+(11,72,4,9,39, 'field goal', 'Plummer, Mac', True)
+(11,73,1,10,65, 'kickoff', 'Plummer, Mac', False)
+(11,74,1,10,0, 'other', 'None', False),
+(11,75,1,10,11, 'pass', 'Urena, Adam', False)
+(11,76,1,10,6, 'rush', 'Rodriguez, Ayron', False)
+(11,77,2,4,46, 'pass', 'Urena, Adam', False)
+(11,78,1,10,0, 'other', 'None', False),
+(11,79,1,10,2, 'rush', 'Rodriguez, Ayron', False)
+(11,80,2,8,0, 'pass', 'Urena, Adam', False)
+(11,81,3,8,2, 'pass', 'Urena, Adam', False)
+(11,82,4,6,0, 'other', 'None', False),
+(11,83,4,6,18, 'field goal', 'Nagucki, Nathan', True)
+(11,84,1,10,35, 'kickoff', 'Kline, Kaedon', False)
+(11,85,1,10,0, 'other', 'None', False),
+(11,86,1,10,2, 'rush', 'McElroy, DeMarcus', False)
+(11,87,2,8,0, 'other', 'None', False),
+(11,88,1,10,0, 'other', 'None', False),
+(11,89,1,10,5, 'pass', 'Thomson, Gavin', False)
+(11,90,2,5,4, 'rush', 'Holman, Markell', False)
+(11,91,1,10,0, 'other', 'None', False),
+(11,92,1,10,0, 'rush', 'Kerbacher, Joe', False)
+(11,93,2,10,2, 'rush', 'Trobel, Brian', False)
+(11,94,3,8,2, 'rush', 'Trobel, Brian', False)
+(11,95,4,6,5, 'pass', 'Urena, Adam', False)
+(11,96,1,10,0, 'other', 'None', False),
+(11,97,1,10,0, 'pass', 'Perryman, Jahmil', False)
+(11,98,2,10,6, 'rush', 'McElroy, DeMarcus', False)
+(11,99,3,4,7, 'pass', 'Thomson, Gavin', False)
+(11,100,1,10,2, 'other', 'None', False),
+(11,101,2,12,1, 'rush', 'Mejia, Adrian', False)
+(11,102,3,11,0, 'pass', 'Thomson, Gavin', False)
+(11,103,4,11,38, 'punt', 'Cirulli, Aidan', False)
+(11,104,1,10,0, 'other', 'None', False),
+(11,105,1,10,-2, 'pass', 'Urena, Adam', False)
+(11,106,2,12,3, 'rush', 'Davis, Earnest', False)
+(11,107,3,9,18, 'pass', 'Urena, Adam', False)
+(11,108,1,10,2, 'rush', 'Davis, Earnest', False)
+(11,109,2,8,0, 'pass', 'Urena, Adam', False)
+(11,110,3,8,4, 'pass', 'Urena, Adam', False)
+(11,111,4,4,20, 'pass', 'Urena, Adam', False)
+(11,112,1,10,6, 'pass', 'Urena, Adam', False)
+(11,113,2,4,0, 'pass', 'Urena, Adam', False)
+(11,114,3,4,0, 'pass', 'Urena, Adam', False)
+(11,115,4,4,24, 'field goal', 'Nagucki, Nathan', True)
+(11,116,1,10,51, 'kickoff', 'Kline, Kaedon', False)
+(11,117,1,10,0, 'other', 'None', False),
+(11,118,1,10,9, 'pass', 'Perryman, Jahmil', False)
+(11,119,2,1,7, 'other', 'None', False),
+(11,120,3,8,0, 'pass', 'Thomson, Gavin', False)
+(11,121,4,8,31, 'punt', 'Cirulli, Aidan', False)
+(11,122,1,10,0, 'other', 'None', False),
+(11,123,1,10,1, 'rush', 'Davison, Rylan', False)
+(11,124,2,9,7, 'pass', 'Urena, Adam', False)
+(11,125,3,2,19, 'rush', 'Trobel, Brian', False)
+(11,126,1,10,0, 'other', 'None', False),
+(11,127,1,10,-3, 'pass', 'Urena, Adam', False)
+(11,128,2,13,3, 'rush', 'Trobel, Brian', False)
+(11,129,3,10,14, 'pass', 'Urena, Adam', False)
+(11,130,1,10,3, 'rush', 'Trobel, Brian', False)
+(11,131,2,7,22, 'pass', 'Urena, Adam', False)
+(11,132,1,10,2, 'rush', 'Trobel, Brian', False)
+(11,133,2,8,0, 'other', 'None', False),
+(11,134,2,8,10, 'pass', 'Urena, Adam', True)
+(11,135,1,10,0, 'extra point', 'Nagucki, Nathan', True)
+(11,136,1,10,63, 'kickoff', 'Kline, Kaedon', False)
+(11,137,1,10,0, 'other', 'None', False),
+(11,138,1,10,8, 'rush', 'Perryman, Jahmil', False)
+(11,139,2,2,2, 'rush', 'McElroy, DeMarcus', False)
+(11,140,1,10,5, 'rush', 'McElroy, DeMarcus', False)
+(11,141,2,5,0, 'rush', 'McElroy, DeMarcus', False)
+(11,142,3,5,11, 'pass', 'McElroy, DeMarcus', False)
+(11,143,1,10,10, 'rush', 'McElroy, DeMarcus', False)
+(11,144,1,10,5, 'rush', 'McElroy, DeMarcus', False)
+(11,145,2,5,45, 'pass', 'Thomson, Gavin', True)
+(11,146,1,10,0, 'extra point', 'Plummer, Mac', True)
+(11,147,1,10,44, 'kickoff', 'Plummer, Mac', False)
+(11,148,1,10,0, 'other', 'None', False),
+(11,149,1,10,3, 'rush', 'Trobel, Brian', False)
+(11,150,2,7,0, 'pass', 'Urena, Adam', False)
+(11,151,3,7,8, 'pass', 'Urena, Adam', False)
+(11,152,1,10,-2, 'rush', 'Trobel, Brian', False)
+(11,153,2,12,5, 'rush', 'Trobel, Brian', False)
+(11,154,3,7,0, 'pass', 'Urena, Adam', False)
+(11,155,4,7,11, 'pass', 'Urena, Adam', False)
+(11,156,1,10,3, 'rush', 'Davis, Earnest', False)
+(11,157,2,7,2, 'rush', 'Trobel, Brian', False)
+(11,158,3,5,7, 'rush', 'Trobel, Brian', False)
+(11,159,1,10,29, 'pass', 'Urena, Adam', True)
+(11,160,1,10,0, 'pass', 'Welch, Ryan', True)
+(11,161,1,10,60, 'kickoff', 'Kline, Kaedon', False)
+(11,162,1,10,0, 'other', 'None', False),
+(11,163,1,10,16, 'pass', 'McElroy, DeMarcus', False)
+(11,164,1,10,6, 'pass', 'Ivory, Jayden', False)
+(11,165,2,4,0, 'other', 'None', False),
+(11,166,2,4,8, 'other', 'White, Camden', False)
+(11,167,2,4,0, 'other', 'None', False),
+(11,168,1,10,0, 'other', 'None', False),
+(11,169,1,10,0, 'rush', 'Urena, Adam', False)
+(11,170,2,10,0, 'other', 'None', False),
